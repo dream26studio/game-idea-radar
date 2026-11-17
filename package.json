@@ -1,0 +1,11 @@
+{
+  "name": "game-idea-radar",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "charts": "NODE_USE_ENV_PROXY=1 node tools/charts.mjs"
+  },
+  "dependencies": {
+    "google-play-scraper": "^10.0.0"
+  }
+}
