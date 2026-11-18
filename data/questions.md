@@ -1,6 +1,7 @@
 # Questions from the bot
 
 ## Open
-- 2026-11-18: play.google.com is blocked in this cloud session (proxy 403 / DNS fail), so charts and app_report.py cannot run. Please add play.google.com (and sensortower.com if wanted) to the environment's allowed network domains. No ideas were generated today, because proof can't be verified.
+- 2026-11-18: Prefer cheap 2D builds (like Mosaic Spinner) or are 3D physics builds (Pebble Pop Kingdom) in scope?
 
 ## Answered
+- 2026-11-18 (resolved): Play Store was blocked in an earlier attempt; it works now, no action needed.

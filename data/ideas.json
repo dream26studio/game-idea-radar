@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "date": "2026-11-18",
+    "type": "clone",
+    "name": "Pebble Pop Kingdom",
+    "basedOnAppId": "com.cyphergames.royalsmash",
+    "mechanicTags": [
+      "physics",
+      "cannon-aim",
+      "destruction",
+      "chain-reaction"
+    ],
+    "oneLiner": "Aim a cannon and smash jars, stones and towers in 3D; candy-kingdom reskin of Royal Smash.",
+    "report": "ideas/2026-11-18/report.md"
+  },
+  {
+    "date": "2026-11-18",
+    "type": "twist",
+    "name": "Mosaic Spinner",
+    "basedOnAppId": "com.loomgames.pixelflow",
+    "mechanicTags": [
+      "conveyor-queue",
+      "color-match",
+      "one-tap",
+      "ammo-capacity"
+    ],
+    "oneLiner": "Pixel Flow conveyor loop, but the picture rotates 90 degrees every conveyor lap.",
+    "report": "ideas/2026-11-18/report.md"
+  }
+]

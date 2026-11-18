@@ -1,1 +1,35 @@
-{}
+{
+ "com.combo.yarnflow": {
+  "developer": "Combo Game",
+  "lastResearched": "2026-11-18",
+  "ratings": 31527,
+  "realInstalls": 4217248,
+  "released": "Dec 19, 2025",
+  "score": 4.49,
+  "st_downloads_last_month": "500k-1m",
+  "st_revenue_last_month": "$1m-$10m",
+  "title": "Yarn Loop"
+ },
+ "com.cyphergames.royalsmash": {
+  "developer": "Cypher Games",
+  "lastResearched": "2026-11-18",
+  "ratings": 523890,
+  "realInstalls": 15465195,
+  "released": "Jun 24, 2026",
+  "score": 4.63,
+  "st_downloads_last_month": "1m-10m",
+  "st_revenue_last_month": "$1m-$10m",
+  "title": "Royal Smash! - Physics Puzzle"
+ },
+ "com.loomgames.pixelflow": {
+  "developer": "Loom Games A.\u015e.",
+  "lastResearched": "2026-11-18",
+  "ratings": 249125,
+  "realInstalls": 14196628,
+  "released": "Aug 18, 2025",
+  "score": 4.51,
+  "st_downloads_last_month": "500k-1m",
+  "st_revenue_last_month": "$1m-$10m",
+  "title": "Pixel Flow!"
+ }
+}
