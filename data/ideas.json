@@ -26,5 +26,33 @@
     ],
     "oneLiner": "Pixel Flow conveyor loop, but the picture rotates 90 degrees every conveyor lap.",
     "report": "ideas/2026-11-18/report.md"
+  },
+  {
+    "date": "2026-11-19",
+    "type": "clone",
+    "name": "Potion Pour Pals",
+    "basedOnAppId": "com.grandgames.magicsort",
+    "mechanicTags": [
+      "water-sort",
+      "color-sort",
+      "tap-pour",
+      "boosters"
+    ],
+    "oneLiner": "Water-sort puzzle reskinned as cozy potion-brewing creatures pouring glowing potions.",
+    "report": "ideas/2026-11-19/report.md"
+  },
+  {
+    "date": "2026-11-19",
+    "type": "twist",
+    "name": "Word Avalanche",
+    "basedOnAppId": "com.agavegames.wordtiles",
+    "mechanicTags": [
+      "word-stack",
+      "letter-grid",
+      "swipe-spell",
+      "gravity"
+    ],
+    "oneLiner": "Swipe-spell word-slot puzzle where used letters vanish and the rest fall, so word order matters.",
+    "report": "ideas/2026-11-19/report.md"
   }
 ]

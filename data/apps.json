@@ -1,8 +1,19 @@
 {
+ "com.agavegames.wordtiles": {
+  "developer": "Agave Games",
+  "lastResearched": "2026-11-19",
+  "ratings": 80423,
+  "realInstalls": 2695275,
+  "released": "Jul 24, 2026",
+  "score": 4.86,
+  "st_downloads_last_month": "1m-10m",
+  "st_revenue_last_month": "$50k-$100k",
+  "title": "Word Tiles - Relaxing Puzzle"
+ },
  "com.combo.yarnflow": {
   "developer": "Combo Game",
-  "lastResearched": "2026-11-18",
-  "ratings": 31527,
+  "lastResearched": "2026-11-19",
+  "ratings": 31559,
   "realInstalls": 4217248,
   "released": "Dec 19, 2025",
   "score": 4.49,
@@ -20,6 +31,17 @@
   "st_downloads_last_month": "1m-10m",
   "st_revenue_last_month": "$1m-$10m",
   "title": "Royal Smash! - Physics Puzzle"
+ },
+ "com.grandgames.magicsort": {
+  "developer": "Grand Games A.\u015e.",
+  "lastResearched": "2026-11-19",
+  "ratings": 655902,
+  "realInstalls": 47847973,
+  "released": "Jun 26, 2024",
+  "score": 4.54,
+  "st_downloads_last_month": "1m-10m",
+  "st_revenue_last_month": "$1m-$10m",
+  "title": "Magic Sort!"
  },
  "com.loomgames.pixelflow": {
   "developer": "Loom Games A.\u015e.",

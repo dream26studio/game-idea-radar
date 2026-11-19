@@ -1,6 +1,6 @@
 {
- "date": "2026-11-18",
- "prevSnapshot": null,
+ "date": "2026-11-19",
+ "prevSnapshot": "2026-11-18.json",
  "candidates": [
   {
    "appId": "com.superplaystudios.disneysolitairedreams",
@@ -246,7 +246,7 @@
    "appId": "adventure.party.real.life",
    "title": "Sunday City: Life RolePlay",
    "developer": "KEFIR!",
-   "score": 4.28,
+   "score": 4.27,
    "free": 11,
    "gross": 6,
    "cats": [
@@ -318,15 +318,15 @@
    ],
    "newEntry": false,
    "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
+   "researched": "2026-11-18",
+   "usedForIdea": true,
    "score_rank": 68
   },
   {
    "appId": "com.fluffydrop.op.gp",
    "title": "Fluffy Drop - No Timer",
    "developer": "UniRise Studio",
-   "score": 4.38,
+   "score": 4.39,
    "free": 4,
    "gross": 11,
    "cats": [
@@ -366,7 +366,7 @@
    ],
    "newEntry": false,
    "bestRise": 0,
-   "researched": null,
+   "researched": "2026-11-18",
    "usedForIdea": false,
    "score_rank": 65
   },
@@ -502,7 +502,7 @@
    "appId": "com.merge.cooking.theme.restaurant.food",
    "title": "Merge Cooking®",
    "developer": "Happibits Game",
-   "score": 4.53,
+   "score": 4.54,
    "free": null,
    "gross": 1,
    "cats": [
@@ -518,7 +518,7 @@
    "appId": "com.rotatelab.cubeblast",
    "title": "Cube Land Puzzle Game",
    "developer": "Rotatelab Yazilim ve Bilisim A.S.",
-   "score": 4.49,
+   "score": 4.5,
    "free": 4,
    "gross": 15,
    "cats": [
@@ -598,7 +598,7 @@
    "appId": "ai.heyyyy.app",
    "title": "Heyyyy: Stories that text back",
    "developer": "heyyyyAI Inc",
-   "score": 4.53,
+   "score": 4.54,
    "free": null,
    "gross": 2,
    "cats": [
@@ -630,7 +630,7 @@
    "appId": "io.smakapps.guessly",
    "title": "Charades Guess Game — Guessly",
    "developer": "smak apps",
-   "score": 4.62,
+   "score": 4.65,
    "free": 13,
    "gross": 12,
    "cats": [
@@ -686,8 +686,8 @@
    ],
    "newEntry": false,
    "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
+   "researched": "2026-11-18",
+   "usedForIdea": true,
    "score_rank": 54
   },
   {
@@ -1238,7 +1238,7 @@
    "appId": "com.fzcq.wzcqand",
    "title": "Warriors and Adventure",
    "developer": "Barnard Game",
-   "score": 4.71,
+   "score": 4.7,
    "free": null,
    "gross": 10,
    "cats": [
@@ -1302,7 +1302,7 @@
    "appId": "com.moonactive.holestars",
    "title": "Hole Stars: Puzzle Game",
    "developer": "Moon Active",
-   "score": 4.7,
+   "score": 4.69,
    "free": 20,
    "gross": 16,
    "cats": [
@@ -1670,7 +1670,7 @@
    "appId": "newspaper.games",
    "title": "Minipuzzles - Daily Challenges",
    "developer": "Puzztime!",
-   "score": 4.46,
+   "score": 4.47,
    "free": null,
    "gross": 13,
    "cats": [
@@ -1686,7 +1686,7 @@
    "appId": "com.zigzagame.paranoize",
    "title": "Paranoize",
    "developer": "ZigZaGame Inc.",
-   "score": 4.64,
+   "score": 4.62,
    "free": 2,
    "gross": 28,
    "cats": [
@@ -1878,7 +1878,7 @@
    "appId": "com.Garawell.LoopSort",
    "title": "Loop Sort",
    "developer": "VOODOO",
-   "score": 4.46,
+   "score": 4.45,
    "free": 16,
    "gross": 23,
    "cats": [
@@ -1894,7 +1894,7 @@
    "appId": "bus.sand.fall.jam.loop.traffic.flow",
    "title": "Jam Bus:Sandfall",
    "developer": "Nova Games Technology Limited",
-   "score": 4.78,
+   "score": 4.79,
    "free": 14,
    "gross": 24,
    "cats": [
@@ -2134,7 +2134,7 @@
    "appId": "com.gamefactory.roomsort",
    "title": "Amochiroom Puzzle: Room Sort",
    "developer": "ABF ALPENHOF",
-   "score": 4.78,
+   "score": 4.75,
    "free": 3,
    "gross": null,
    "cats": [
@@ -2166,7 +2166,7 @@
    "appId": "com.fatr.global",
    "title": "Hotel Legacy: Merge Game",
    "developer": "Century Games Innovation Pte. Ltd.",
-   "score": 4.69,
+   "score": 4.7,
    "free": null,
    "gross": 17,
    "cats": [
@@ -2230,7 +2230,7 @@
    "appId": "jp.pokemon.pokemonsleep",
    "title": "Pokémon Sleep",
    "developer": "The Pokémon Company",
-   "score": 4.4,
+   "score": 4.41,
    "free": null,
    "gross": 17,
    "cats": [
@@ -2310,7 +2310,7 @@
    "appId": "com.studio6.toystore",
    "title": "Tidy Everything!",
    "developer": "SayGames Ltd",
-   "score": 3.14,
+   "score": 3.17,
    "free": 4,
    "gross": null,
    "cats": [
@@ -2454,7 +2454,7 @@
    "appId": "com.cscmobi.livestream.idle.clicker",
    "title": "Viral Streamer: Idle Clicker",
    "developer": "CSCMobi Studios",
-   "score": 4.57,
+   "score": 4.56,
    "free": 5,
    "gross": null,
    "cats": [
@@ -2534,7 +2534,7 @@
    "appId": "com.hp.clicker.diy.asmr.charm.master",
    "title": "Clicker DIY: ASMR Charm Master",
    "developer": "HIGAME Studio",
-   "score": 3.91,
+   "score": 3.92,
    "free": 6,
    "gross": null,
    "cats": [
@@ -2614,7 +2614,7 @@
    "appId": "jp.co.goodroid.hyper.busflow",
    "title": "Bus Traffic Fever!",
    "developer": "GOODROID,Inc.",
-   "score": 4.1,
+   "score": 4.09,
    "free": null,
    "gross": 19,
    "cats": [
@@ -2726,7 +2726,7 @@
    "appId": "com.pdd.sfungames",
    "title": "Dino Dig Tycoon",
    "developer": "SFungames",
-   "score": 4.63,
+   "score": 4.6,
    "free": 7,
    "gross": null,
    "cats": [
@@ -2806,7 +2806,7 @@
    "appId": "com.mobsmile.coinbounce",
    "title": "Coin Bounce",
    "developer": "Mobsmile Games AS",
-   "score": 3.92,
+   "score": 3.89,
    "free": 8,
    "gross": null,
    "cats": [
@@ -2870,7 +2870,7 @@
    "appId": "com.diamond.city.house.best.building.craft.vip",
    "title": "Block World - Craft City",
    "developer": "Patane Global",
-   "score": 4.49,
+   "score": 4.53,
    "free": 8,
    "gross": null,
    "cats": [
@@ -2902,7 +2902,7 @@
    "appId": "com.blockblast.lite",
    "title": "Block Blast Lite",
    "developer": "HungryStudio",
-   "score": 4.91,
+   "score": 4.89,
    "free": 9,
    "gross": null,
    "cats": [
@@ -2934,7 +2934,7 @@
    "appId": "busflow.traffic.puzzle",
    "title": "Bus Crowd - Traffic Jam",
    "developer": "Hyper Surfer Games",
-   "score": 3.75,
+   "score": 3.94,
    "free": 9,
    "gross": null,
    "cats": [
@@ -3078,7 +3078,7 @@
    "appId": "com.arcshoot.arena",
    "title": "Archery Duel 3D",
    "developer": "GreenTTeaGame",
-   "score": 2.63,
+   "score": 2.42,
    "free": 10,
    "gross": null,
    "cats": [
@@ -3126,7 +3126,7 @@
    "appId": "com.metax.obby.escape.run",
    "title": "Keyboard Escape: +1 Speed ASMR",
    "developer": "Goldoint",
-   "score": 3.21,
+   "score": 3.23,
    "free": 10,
    "gross": null,
    "cats": [
@@ -3190,7 +3190,7 @@
    "appId": "com.RC67.surprise.dumpling.ASMR.box",
    "title": "Surprise Dumpling: ASMR Box",
    "developer": "NAMIGAME",
-   "score": 4.67,
+   "score": 4.69,
    "free": 11,
    "gross": null,
    "cats": [
@@ -3270,7 +3270,7 @@
    "appId": "com.greatplay.bingocash",
    "title": "Fast Cash Bingo Dice",
    "developer": "GreatPlay App",
-   "score": 4.9,
+   "score": 4.91,
    "free": 11,
    "gross": null,
    "cats": [
@@ -3318,7 +3318,7 @@
    "appId": "com.nebula.ropesort",
    "title": "Rope Sort!",
    "developer": "Nebula  Studio",
-   "score": 4.94,
+   "score": 4.93,
    "free": 12,
    "gross": null,
    "cats": [
@@ -3334,7 +3334,7 @@
    "appId": "com.uc.gym.clicker",
    "title": "Gym Idle Clicker: Fitness Hero",
    "developer": "Unicorn Studio Official",
-   "score": 4.68,
+   "score": 4.69,
    "free": 12,
    "gross": null,
    "cats": [
@@ -3478,7 +3478,7 @@
    "appId": "com.bigcake.android.chess.offline",
    "title": "Chess",
    "developer": "Big Cake",
-   "score": 4.16,
+   "score": 4.13,
    "free": 13,
    "gross": null,
    "cats": [
@@ -3526,7 +3526,7 @@
    "appId": "com.supermarkettycoon.idle",
    "title": "Supermarket Tycoon Empire",
    "developer": "Sopot Studios",
-   "score": 4.63,
+   "score": 4.65,
    "free": null,
    "gross": 22,
    "cats": [
@@ -3590,7 +3590,7 @@
    "appId": "ore.crusher",
    "title": "Idle Mining & Refining",
    "developer": "EMKR Games",
-   "score": 4.73,
+   "score": 4.75,
    "free": 14,
    "gross": null,
    "cats": [
@@ -3830,7 +3830,7 @@
    "appId": "dress.up.fashion.makeup.style.makeover.girl.rebel.queen",
    "title": "Rebel Glam: Dress Up Games",
    "developer": "31 Dress up Games",
-   "score": 4.32,
+   "score": 4.33,
    "free": 16,
    "gross": null,
    "cats": [
@@ -3846,7 +3846,7 @@
    "appId": "com.loop.packedloop",
    "title": "Parking Loop",
    "developer": "Loop Games A.S.",
-   "score": 4.37,
+   "score": 4.36,
    "free": 17,
    "gross": null,
    "cats": [
@@ -3926,7 +3926,7 @@
    "appId": "games.redbricks.businessworld",
    "title": "Business World: Poor to Rich",
    "developer": "Appodeal Accelerator Labs",
-   "score": 4.42,
+   "score": 4.43,
    "free": 17,
    "gross": null,
    "cats": [
@@ -3990,7 +3990,7 @@
    "appId": "pixelora.flow.pixel.art.snake.puzzle.game",
    "title": "Pixelora Flow",
    "developer": "HappyTapLand",
-   "score": 4.93,
+   "score": 4.91,
    "free": 18,
    "gross": null,
    "cats": [
@@ -4006,7 +4006,7 @@
    "appId": "cube.clear.burst.spin.sweep.puzzle.rotate",
    "title": "Twist Colors: Cubescape",
    "developer": "Nova Games Technology Limited",
-   "score": 4.85,
+   "score": 4.84,
    "free": 18,
    "gross": null,
    "cats": [
@@ -4038,7 +4038,7 @@
    "appId": "com.game.whatdoyoumeme",
    "title": "Meme Challenge: Dank Memes",
    "developer": "MagicLab",
-   "score": 4.51,
+   "score": 4.52,
    "free": 18,
    "gross": null,
    "cats": [
@@ -4070,7 +4070,7 @@
    "appId": "sort.casual.color.cat.puzzle.match",
    "title": "Cutie Sort: Kitten Games",
    "developer": "Ladaneta Games",
-   "score": 4.87,
+   "score": 4.86,
    "free": 19,
    "gross": null,
    "cats": [
@@ -4086,7 +4086,7 @@
    "appId": "com.vigafun.funfinity.foodhunt",
    "title": "Food Hunt: Pixel Puzzle",
    "developer": "EVERFUN",
-   "score": 4.53,
+   "score": 4.54,
    "free": null,
    "gross": 25,
    "cats": [
@@ -4102,7 +4102,7 @@
    "appId": "com.liteorange.hometopia",
    "title": "Frost Valley™: Merge & Story",
    "developer": "Tuyoo Games (HK) Limited",
-   "score": 4.78,
+   "score": 4.77,
    "free": 19,
    "gross": null,
    "cats": [
@@ -4262,7 +4262,7 @@
    "appId": "com.gl.bus",
    "title": "Block Bus!",
    "developer": "Loyalty Gaming",
-   "score": 4.49,
+   "score": 4.48,
    "free": 20,
    "gross": null,
    "cats": [
@@ -4326,7 +4326,7 @@
    "appId": "com.merge.game.foodstars",
    "title": "Foodstars: Merge & Cook",
    "developer": "Happibits Game",
-   "score": 4.45,
+   "score": 4.43,
    "free": null,
    "gross": 26,
    "cats": [
@@ -4390,7 +4390,7 @@
    "appId": "com.tripledot.cryptogram",
    "title": "Cryptogram: Logic Puzzle Game",
    "developer": "Tripledot Studios Limited",
-   "score": 4.84,
+   "score": 4.85,
    "free": null,
    "gross": 26,
    "cats": [
@@ -4470,7 +4470,7 @@
    "appId": "com.playground.sprunki.sandbox",
    "title": "Spooky Playground: Sandbox",
    "developer": "Logic Apz",
-   "score": 3.72,
+   "score": 3.66,
    "free": 21,
    "gross": null,
    "cats": [
@@ -4630,7 +4630,7 @@
    "appId": "com.xman.na.gp",
    "title": "X-Clash",
    "developer": "Glaciers Game",
-   "score": 4.11,
+   "score": 4.12,
    "free": null,
    "gross": 27,
    "cats": [
@@ -4806,7 +4806,7 @@
    "appId": "com.fidget.dumplingparty",
    "title": "Fidget Trading: Dumpling Party",
    "developer": "Novix Games",
-   "score": 3.73,
+   "score": 3.68,
    "free": 24,
    "gross": null,
    "cats": [
@@ -4886,7 +4886,7 @@
    "appId": "com.higame.par.joystick.makeover.diy.gamepad",
    "title": "Joystick Makeover: DIY Gamepad",
    "developer": "HIGAME LTD.",
-   "score": 4.77,
+   "score": 4.75,
    "free": 25,
    "gross": null,
    "cats": [
@@ -4982,7 +4982,7 @@
    "appId": "in.playsimple.mahjongempire",
    "title": "Mahjong Empire: Classic Match",
    "developer": "PlaySimple Games",
-   "score": 4.95,
+   "score": 4.94,
    "free": 25,
    "gross": null,
    "cats": [
@@ -5158,7 +5158,7 @@
    "appId": "com.gl.crowncrush",
    "title": "Crown Crush",
    "developer": "Loyalty Gaming",
-   "score": 4.59,
+   "score": 4.58,
    "free": 27,
    "gross": null,
    "cats": [
@@ -5206,7 +5206,7 @@
    "appId": "com.Chodun.CatGunner",
    "title": "Idle Cat Gunner: Shooter RPG",
    "developer": "NEPTUNE(TREEPLLA)",
-   "score": 4.43,
+   "score": 4.45,
    "free": null,
    "gross": 29,
    "cats": [
@@ -5286,7 +5286,7 @@
    "appId": "lucky.scoop.diy.mistery.asmrpacking.forgirls",
    "title": "Cute Scoop DIY: ASMR Packing",
    "developer": "BLACKGEMS GLOBAL JOINT STOCK COMPANY",
-   "score": 4.22,
+   "score": 4.28,
    "free": 27,
    "gross": null,
    "cats": [
@@ -5302,7 +5302,7 @@
    "appId": "com.outloud.idlefrog",
    "title": "Frogs Kitchen",
    "developer": "OUTLOU:D GAMES",
-   "score": 4.52,
+   "score": 4.5,
    "free": null,
    "gross": 29,
    "cats": [
@@ -5350,7 +5350,7 @@
    "appId": "com.uncosoft.wordpuzzle",
    "title": "Sand Blocks: Drop Puzzle",
    "developer": "Rollic Games",
-   "score": 3.98,
+   "score": 4.02,
    "free": 30,
    "gross": 30,
    "cats": [
@@ -5382,7 +5382,7 @@
    "appId": "com.gimica.wordseeker",
    "title": "Word Seeker",
    "developer": "Gimica GmbH",
-   "score": 4.37,
+   "score": 4.38,
    "free": 28,
    "gross": null,
    "cats": [
@@ -5462,7 +5462,7 @@
    "appId": "com.animal.hunter.shooting.apex",
    "title": "Apex Sniper: Animal Hunt",
    "developer": "CozyCraft",
-   "score": 4.64,
+   "score": 4.65,
    "free": 29,
    "gross": null,
    "cats": [
@@ -5478,7 +5478,7 @@
    "appId": "dk.tactile.holegame",
    "title": "Suck it Up ™ - Hole Them All",
    "developer": "Tactile Games",
-   "score": 4.57,
+   "score": 4.56,
    "free": null,
    "gross": 30,
    "cats": [
@@ -5590,7 +5590,7 @@
    "appId": "com.newmoonproduction.bigfarmhomestead",
    "title": "Big Farm Homestead",
    "developer": "Goodgame Studios",
-   "score": 4.6,
+   "score": 4.59,
    "free": null,
    "gross": 30,
    "cats": [
@@ -5638,7 +5638,7 @@
    "appId": "com.gl.mahjong",
    "title": "Mahjong Smart",
    "developer": "Loyalty Gaming",
-   "score": 4.55,
+   "score": 4.51,
    "free": 30,
    "gross": null,
    "cats": [
@@ -5686,7 +5686,7 @@
    "appId": "bingocash.bonus.moneyslot.cardpuzzle",
    "title": "Bingo Win Cash: Win Real Cash",
    "developer": "VENUS AG",
-   "score": 4.31,
+   "score": 4.32,
    "free": 30,
    "gross": null,
    "cats": [
@@ -5718,7 +5718,7 @@
    "appId": "com.krillion.game",
    "title": "Krillion Trivia & Word Game",
    "developer": "AppStation Studio",
-   "score": 4.83,
+   "score": 4.79,
    "free": 30,
    "gross": null,
    "cats": [
