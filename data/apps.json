@@ -32,6 +32,17 @@
   "st_revenue_last_month": "$1m-$10m",
   "title": "Royal Smash! - Physics Puzzle"
  },
+ "com.fluffydrop.op.gp": {
+  "developer": "UniRise Studio",
+  "lastResearched": "2026-11-20",
+  "ratings": 20392,
+  "realInstalls": 5259254,
+  "released": "Mar 29, 2026",
+  "score": 4.37,
+  "st_downloads_last_month": "100k-500k",
+  "st_revenue_last_month": "$5k-$50k",
+  "title": "Fluffy Drop - No Timer"
+ },
  "com.grandgames.magicsort": {
   "developer": "Grand Games A.\u015e.",
   "lastResearched": "2026-11-19",
@@ -53,5 +64,16 @@
   "st_downloads_last_month": "500k-1m",
   "st_revenue_last_month": "$1m-$10m",
   "title": "Pixel Flow!"
+ },
+ "com.rotatelab.cubeblast": {
+  "developer": "Rotatelab Yazilim ve Bilisim A.S.",
+  "lastResearched": "2026-11-20",
+  "ratings": 75484,
+  "realInstalls": 4512146,
+  "released": "Jan 16, 2026",
+  "score": 4.5,
+  "st_downloads_last_month": "500k-1m",
+  "st_revenue_last_month": "$1m-$10m",
+  "title": "Cube Land Puzzle Game"
  }
 }

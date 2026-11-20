@@ -1,6 +1,6 @@
 {
- "date": "2026-11-19",
- "prevSnapshot": "2026-11-18.json",
+ "date": "2026-11-20",
+ "prevSnapshot": "2026-11-19.json",
  "candidates": [
   {
    "appId": "com.superplaystudios.disneysolitairedreams",
@@ -22,7 +22,7 @@
    "appId": "com.fanatee.keep",
    "title": "Everyday Puzzles: Mini Games",
    "developer": "Fanatee, Inc.",
-   "score": 4.57,
+   "score": 4.56,
    "free": 1,
    "gross": 2,
    "cats": [
@@ -51,22 +51,6 @@
    "score_rank": 87
   },
   {
-   "appId": "com.mergegames.gossipharbor",
-   "title": "Gossip Harbor: Merge & Story",
-   "developer": "Microfun Limited",
-   "score": 4.4,
-   "free": 5,
-   "gross": 1,
-   "cats": [
-    "GAME_PUZZLE"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 86
-  },
-  {
    "appId": "com.playrix.township",
    "title": "Township",
    "developer": "Playrix",
@@ -78,6 +62,22 @@
    ],
    "newEntry": false,
    "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 86
+  },
+  {
+   "appId": "com.king.candycrushsaga",
+   "title": "Candy Crush Saga",
+   "developer": "King",
+   "score": 4.63,
+   "free": 6,
+   "gross": 1,
+   "cats": [
+    "GAME_CASUAL"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 86
@@ -99,27 +99,43 @@
    "score_rank": 86
   },
   {
-   "appId": "com.king.candycrushsaga",
-   "title": "Candy Crush Saga",
-   "developer": "King",
-   "score": 4.63,
-   "free": 7,
+   "appId": "com.mergegames.gossipharbor",
+   "title": "Gossip Harbor: Merge & Story",
+   "developer": "Microfun Limited",
+   "score": 4.4,
+   "free": 6,
    "gross": 1,
    "cats": [
-    "GAME_CASUAL"
+    "GAME_PUZZLE"
    ],
    "newEntry": false,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
-   "score_rank": 84
+   "score_rank": 85
+  },
+  {
+   "appId": "com.moonactive.coinmaster",
+   "title": "Coin Master",
+   "developer": "Moon Active",
+   "score": 4.75,
+   "free": 13,
+   "gross": 3,
+   "cats": [
+    "GAME_CASUAL"
+   ],
+   "newEntry": false,
+   "bestRise": 9,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 83
   },
   {
    "appId": "jp.pokemon.pokemontcgp",
    "title": "Pokémon TCG Pocket",
    "developer": "The Pokémon Company",
    "score": 4.61,
-   "free": 3,
+   "free": 7,
    "gross": 3,
    "cats": [
     "GAME_CARD"
@@ -128,7 +144,23 @@
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
-   "score_rank": 84
+   "score_rank": 80
+  },
+  {
+   "appId": "com.chess",
+   "title": "Chess - Play and Learn Online",
+   "developer": "Chess.com",
+   "score": 4.72,
+   "free": 2,
+   "gross": 6,
+   "cats": [
+    "GAME_BOARD"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 80
   },
   {
    "appId": "com.peoplefun.wordcross",
@@ -147,22 +179,6 @@
    "score_rank": 79
   },
   {
-   "appId": "com.chess",
-   "title": "Chess - Play and Learn Online",
-   "developer": "Chess.com",
-   "score": 4.72,
-   "free": 3,
-   "gross": 6,
-   "cats": [
-    "GAME_BOARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 78
-  },
-  {
    "appId": "com.agavegames.wordtiles",
    "title": "Word Tiles - Relaxing Puzzle",
    "developer": "Agave Games",
@@ -174,6 +190,22 @@
    ],
    "newEntry": false,
    "bestRise": 0,
+   "researched": "2026-11-19",
+   "usedForIdea": true,
+   "score_rank": 76
+  },
+  {
+   "appId": "air.com.buffalo_studios.newflashbingo",
+   "title": "Bingo Blitz™️: Adventure Games",
+   "developer": "Playtika Santa Monica",
+   "score": 4.62,
+   "free": 15,
+   "gross": 2,
+   "cats": [
+    "GAME_BOARD"
+   ],
+   "newEntry": false,
+   "bestRise": 2,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 76
@@ -195,6 +227,22 @@
    "score_rank": 75
   },
   {
+   "appId": "com.moonactive.cmboard",
+   "title": "Coin Master - Board Adventure",
+   "developer": "Moon Active",
+   "score": 4.76,
+   "free": 8,
+   "gross": 9,
+   "cats": [
+    "GAME_CASUAL"
+   ],
+   "newEntry": false,
+   "bestRise": 7,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 74
+  },
+  {
    "appId": "kidultlovin.word.zen",
    "title": "Zen Word® - Relax Puzzle Game",
    "developer": "Oakever Games",
@@ -211,20 +259,20 @@
    "score_rank": 74
   },
   {
-   "appId": "air.com.buffalo_studios.newflashbingo",
-   "title": "Bingo Blitz™️: Adventure Games",
-   "developer": "Playtika Santa Monica",
-   "score": 4.62,
-   "free": 17,
+   "appId": "ai.heyyyy.app",
+   "title": "Heyyyy: Stories that text back",
+   "developer": "heyyyyAI Inc",
+   "score": 4.54,
+   "free": 30,
    "gross": 2,
    "cats": [
-    "GAME_BOARD"
+    "GAME_SIMULATION"
    ],
-   "newEntry": false,
+   "newEntry": true,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
-   "score_rank": 72
+   "score_rank": 74
   },
   {
    "appId": "com.unicostudio.braintest",
@@ -232,21 +280,21 @@
    "developer": "Unico Studio",
    "score": 4.73,
    "free": 2,
-   "gross": 10,
+   "gross": 9,
    "cats": [
     "GAME_TRIVIA"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
-   "score_rank": 71
+   "score_rank": 74
   },
   {
    "appId": "adventure.party.real.life",
    "title": "Sunday City: Life RolePlay",
    "developer": "KEFIR!",
-   "score": 4.27,
+   "score": 4.28,
    "free": 11,
    "gross": 6,
    "cats": [
@@ -259,49 +307,33 @@
    "score_rank": 70
   },
   {
-   "appId": "com.krillion.app",
-   "title": "Krakio: Daily Trivia Dive",
-   "developer": "TyroSoft LLC",
-   "score": 4.5,
-   "free": 7,
-   "gross": 8,
+   "appId": "com.combo.yarnflow",
+   "title": "Yarn Loop: Knit Puzzle",
+   "developer": "Combo Game",
+   "score": 4.48,
+   "free": 13,
+   "gross": 6,
    "cats": [
-    "GAME_TRIVIA"
+    "GAME_PUZZLE"
    ],
    "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 70
-  },
-  {
-   "appId": "com.nytimes.crossword",
-   "title": "NYT Games: Wordle & Crossword",
-   "developer": "The New York Times Company",
-   "score": 4.77,
-   "free": 20,
-   "gross": 2,
-   "cats": [
-    "GAME_WORD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
+   "bestRise": 1,
+   "researched": "2026-11-19",
    "usedForIdea": false,
    "score_rank": 69
   },
   {
-   "appId": "com.geoguessr.app",
-   "title": "GeoGuessr",
-   "developer": "GeoGuessr",
-   "score": 3.8,
-   "free": 18,
-   "gross": 3,
+   "appId": "com.fluffydrop.op.gp",
+   "title": "Fluffy Drop - No Timer",
+   "developer": "UniRise Studio",
+   "score": 4.37,
+   "free": 3,
+   "gross": 11,
    "cats": [
     "GAME_TRIVIA"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 69
@@ -323,12 +355,44 @@
    "score_rank": 68
   },
   {
-   "appId": "com.fluffydrop.op.gp",
-   "title": "Fluffy Drop - No Timer",
-   "developer": "UniRise Studio",
-   "score": 4.39,
-   "free": 4,
-   "gross": 11,
+   "appId": "com.nytimes.crossword",
+   "title": "NYT Games: Wordle & Crossword",
+   "developer": "The New York Times Company",
+   "score": 4.77,
+   "free": 21,
+   "gross": 2,
+   "cats": [
+    "GAME_WORD"
+   ],
+   "newEntry": false,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 68
+  },
+  {
+   "appId": "com.scopely.yux",
+   "title": "Yahtzee® With Buddies: Dice",
+   "developer": "Scopely",
+   "score": 4.48,
+   "free": 30,
+   "gross": 5,
+   "cats": [
+    "GAME_BOARD"
+   ],
+   "newEntry": true,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 68
+  },
+  {
+   "appId": "com.geoguessr.app",
+   "title": "GeoGuessr",
+   "developer": "GeoGuessr",
+   "score": 3.78,
+   "free": 19,
+   "gross": 3,
    "cats": [
     "GAME_TRIVIA"
    ],
@@ -336,97 +400,33 @@
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
-   "score_rank": 67
+   "score_rank": 68
   },
   {
    "appId": "com.mnogogames.triviascapes",
    "title": "IQ & brain test: Triviascapes",
    "developer": "Quiz & Trivia Games by Mno Go Apps",
    "score": 4.8,
-   "free": 9,
-   "gross": 9,
+   "free": 8,
+   "gross": 10,
    "cats": [
     "GAME_TRIVIA"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 66
   },
   {
-   "appId": "com.combo.yarnflow",
-   "title": "Yarn Loop",
-   "developer": "Combo Game",
-   "score": 4.49,
-   "free": 14,
-   "gross": 7,
+   "appId": "com.krillion.app",
+   "title": "Krakio: Daily Trivia Dive",
+   "developer": "TyroSoft LLC",
+   "score": 4.47,
+   "free": 13,
+   "gross": 8,
    "cats": [
-    "GAME_PUZZLE"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": "2026-11-18",
-   "usedForIdea": false,
-   "score_rank": 65
-  },
-  {
-   "appId": "com.moonactive.coinmaster",
-   "title": "Coin Master",
-   "developer": "Moon Active",
-   "score": 4.75,
-   "free": 22,
-   "gross": 3,
-   "cats": [
-    "GAME_CASUAL"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 65
-  },
-  {
-   "appId": "com.matteljv.uno",
-   "title": "UNO!™",
-   "developer": "Mattel Game Studios HK Limited",
-   "score": 4.32,
-   "free": 6,
-   "gross": 11,
-   "cats": [
-    "GAME_CARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 65
-  },
-  {
-   "appId": "net.supertreat.solitaire",
-   "title": "Solitaire Grand Harvest",
-   "developer": "Supertreat - A Playtika Studio",
-   "score": 4.69,
-   "free": 24,
-   "gross": 2,
-   "cats": [
-    "GAME_CARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 65
-  },
-  {
-   "appId": "com.fatmerge.global",
-   "title": "Tasty Travels: Merge Game",
-   "developer": "Century Games PTE. LTD.",
-   "score": 4.5,
-   "free": 17,
-   "gross": 6,
-   "cats": [
-    "GAME_CASUAL"
+    "GAME_TRIVIA"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -435,11 +435,59 @@
    "score_rank": 64
   },
   {
+   "appId": "com.rotatelab.cubeblast",
+   "title": "Cube Land Puzzle Game",
+   "developer": "Rotatelab Yazilim ve Bilisim A.S.",
+   "score": 4.5,
+   "free": 2,
+   "gross": 15,
+   "cats": [
+    "GAME_PUZZLE"
+   ],
+   "newEntry": false,
+   "bestRise": 2,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 63
+  },
+  {
+   "appId": "com.fatmerge.global",
+   "title": "Tasty Travels: Merge Game",
+   "developer": "Century Games PTE. LTD.",
+   "score": 4.5,
+   "free": 18,
+   "gross": 6,
+   "cats": [
+    "GAME_CASUAL"
+   ],
+   "newEntry": false,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 63
+  },
+  {
+   "appId": "net.supertreat.solitaire",
+   "title": "Solitaire Grand Harvest",
+   "developer": "Supertreat - A Playtika Studio",
+   "score": 4.69,
+   "free": 26,
+   "gross": 2,
+   "cats": [
+    "GAME_CARD"
+   ],
+   "newEntry": false,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 63
+  },
+  {
    "appId": "com.dreamgames.royalkingdom",
    "title": "Royal Kingdom",
    "developer": "Dream Games, Ltd.",
    "score": 4.79,
-   "free": 25,
+   "free": 26,
    "gross": 3,
    "cats": [
     "GAME_PUZZLE"
@@ -448,36 +496,52 @@
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
-   "score_rank": 62
+   "score_rank": 61
   },
   {
-   "appId": "com.cooking.bingo.ldkwh",
-   "title": "Bingo Frenzy™-Live Bingo Games",
-   "developer": "VERTEX GAMES PTE. LTD.",
-   "score": 4.86,
-   "free": 23,
-   "gross": 4,
+   "appId": "com.matteljv.uno",
+   "title": "UNO!™",
+   "developer": "Mattel Game Studios HK Limited",
+   "score": 4.32,
+   "free": 8,
+   "gross": 12,
    "cats": [
-    "GAME_BOARD"
+    "GAME_CARD"
    ],
    "newEntry": false,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
-   "score_rank": 62
+   "score_rank": 61
   },
   {
-   "appId": "com.moonactive.cmboard",
-   "title": "Coin Master - Board Adventure",
-   "developer": "Moon Active",
-   "score": 4.76,
-   "free": 15,
-   "gross": 9,
+   "appId": "com.mattel163.phase10",
+   "title": "Phase 10: Casual Card Game",
+   "developer": "Mattel Game Studios HK Limited",
+   "score": 4.75,
+   "free": 19,
+   "gross": 7,
+   "cats": [
+    "GAME_CARD"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 61
+  },
+  {
+   "appId": "com.hollywood.merge",
+   "title": "Hollywood Merge",
+   "developer": "VoyagerOne IE",
+   "score": 4.67,
+   "free": 17,
+   "gross": 11,
    "cats": [
     "GAME_CASUAL"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 6,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 60
@@ -502,7 +566,7 @@
    "appId": "com.merge.cooking.theme.restaurant.food",
    "title": "Merge Cooking®",
    "developer": "Happibits Game",
-   "score": 4.54,
+   "score": 4.53,
    "free": null,
    "gross": 1,
    "cats": [
@@ -515,12 +579,28 @@
    "score_rank": 60
   },
   {
-   "appId": "com.rotatelab.cubeblast",
-   "title": "Cube Land Puzzle Game",
-   "developer": "Rotatelab Yazilim ve Bilisim A.S.",
-   "score": 4.5,
-   "free": 4,
-   "gross": 15,
+   "appId": "com.pieyel.scrabble",
+   "title": "Scrabble® GO – Fun with Words!",
+   "developer": "Scopely",
+   "score": 4.61,
+   "free": 22,
+   "gross": 7,
+   "cats": [
+    "GAME_WORD"
+   ],
+   "newEntry": false,
+   "bestRise": 2,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 59
+  },
+  {
+   "appId": "com.dreamgames.royalmatch",
+   "title": "Royal Match",
+   "developer": "Dream Games, Ltd.",
+   "score": 4.64,
+   "free": null,
+   "gross": 2,
    "cats": [
     "GAME_PUZZLE"
    ],
@@ -528,7 +608,23 @@
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
-   "score_rank": 59
+   "score_rank": 58
+  },
+  {
+   "appId": "com.papegames.lysk.en",
+   "title": "Love and Deepspace",
+   "developer": "InFold Pte. Ltd.",
+   "score": 1.79,
+   "free": null,
+   "gross": 3,
+   "cats": [
+    "GAME_SIMULATION"
+   ],
+   "newEntry": false,
+   "bestRise": 2,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 58
   },
   {
    "appId": "in.playsimple.wordtrip.association",
@@ -536,87 +632,7 @@
    "developer": "PlaySimple Games",
    "score": 4.84,
    "free": 4,
-   "gross": 15,
-   "cats": [
-    "GAME_WORD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 59
-  },
-  {
-   "appId": "com.mattel163.phase10",
-   "title": "Phase 10: Casual Card Game",
-   "developer": "Mattel Game Studios HK Limited",
-   "score": 4.75,
-   "free": 20,
-   "gross": 7,
-   "cats": [
-    "GAME_CARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 59
-  },
-  {
-   "appId": "com.grandgames.magicsort",
-   "title": "Magic Sort!",
-   "developer": "Grand Games A.Ş.",
-   "score": 4.54,
-   "free": 7,
-   "gross": 14,
-   "cats": [
-    "GAME_PUZZLE"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 58
-  },
-  {
-   "appId": "com.dreamgames.royalmatch",
-   "title": "Royal Match",
-   "developer": "Dream Games, Ltd.",
-   "score": 4.63,
-   "free": null,
-   "gross": 2,
-   "cats": [
-    "GAME_PUZZLE"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 58
-  },
-  {
-   "appId": "ai.heyyyy.app",
-   "title": "Heyyyy: Stories that text back",
-   "developer": "heyyyyAI Inc",
-   "score": 4.54,
-   "free": null,
-   "gross": 2,
-   "cats": [
-    "GAME_SIMULATION"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 58
-  },
-  {
-   "appId": "com.pieyel.scrabble",
-   "title": "Scrabble® GO – Fun with Words!",
-   "developer": "Scopely",
-   "score": 4.61,
-   "free": 24,
-   "gross": 6,
+   "gross": 16,
    "cats": [
     "GAME_WORD"
    ],
@@ -630,16 +646,32 @@
    "appId": "io.smakapps.guessly",
    "title": "Charades Guess Game — Guessly",
    "developer": "smak apps",
-   "score": 4.65,
-   "free": 13,
-   "gross": 12,
+   "score": 4.64,
+   "free": 18,
+   "gross": 10,
    "cats": [
     "GAME_WORD"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 2,
    "researched": null,
    "usedForIdea": false,
+   "score_rank": 57
+  },
+  {
+   "appId": "com.grandgames.magicsort",
+   "title": "Magic Sort!",
+   "developer": "Grand Games A.Ş.",
+   "score": 4.54,
+   "free": 9,
+   "gross": 14,
+   "cats": [
+    "GAME_PUZZLE"
+   ],
+   "newEntry": false,
+   "bestRise": 0,
+   "researched": "2026-11-19",
+   "usedForIdea": true,
    "score_rank": 56
   },
   {
@@ -659,26 +691,42 @@
    "score_rank": 56
   },
   {
-   "appId": "com.crowdstar.covetHome",
-   "title": "Design Home™: House Makeover",
-   "developer": "Crowdstar Inc",
-   "score": 4.33,
+   "appId": "com.playrix.gardenscapes",
+   "title": "Gardenscapes",
+   "developer": "Playrix",
+   "score": 4.76,
    "free": null,
-   "gross": 3,
+   "gross": 4,
    "cats": [
-    "GAME_SIMULATION"
+    "GAME_CASUAL"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
-   "score_rank": 56
+   "score_rank": 55
+  },
+  {
+   "appId": "com.playtika.wsop.gp",
+   "title": "WSOP Poker: Texas Holdem Game",
+   "developer": "Playtika",
+   "score": 4.19,
+   "free": null,
+   "gross": 4,
+   "cats": [
+    "GAME_CARD"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 55
   },
   {
    "appId": "com.loomgames.pixelflow",
    "title": "Pixel Flow!",
    "developer": "Loom Games A.Ş.",
-   "score": 4.51,
+   "score": 4.5,
    "free": 23,
    "gross": 8,
    "cats": [
@@ -707,30 +755,14 @@
    "score_rank": 54
   },
   {
-   "appId": "com.superplaystudios.dicedreams",
-   "title": "Dice Dreams™️",
-   "developer": "SuperPlay.",
-   "score": 4.7,
+   "appId": "com.cooking.bingo.ldkwh",
+   "title": "Bingo Frenzy™-Live Bingo Games",
+   "developer": "VERTEX GAMES PTE. LTD.",
+   "score": 4.86,
    "free": null,
    "gross": 4,
    "cats": [
-    "GAME_CASUAL"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 54
-  },
-  {
-   "appId": "com.wizards.mtga",
-   "title": "Magic: The Gathering Arena",
-   "developer": "Wizards of the Coast LLC",
-   "score": 4.2,
-   "free": null,
-   "gross": 4,
-   "cats": [
-    "GAME_CARD"
+    "GAME_BOARD"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -771,6 +803,38 @@
    "score_rank": 54
   },
   {
+   "appId": "in.playsimple.crossword.go",
+   "title": "Crossword Go!",
+   "developer": "PlaySimple Games",
+   "score": 4.85,
+   "free": 3,
+   "gross": 19,
+   "cats": [
+    "GAME_WORD"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 53
+  },
+  {
+   "appId": "com.sonypicturestelevision.millionaire",
+   "title": "Official Millionaire Game",
+   "developer": "Uken Games",
+   "score": 4.55,
+   "free": null,
+   "gross": 5,
+   "cats": [
+    "GAME_TRIVIA"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 53
+  },
+  {
    "appId": "com.playrix.fishdomdd.gplay",
    "title": "Fishdom",
    "developer": "Playrix",
@@ -787,10 +851,10 @@
    "score_rank": 52
   },
   {
-   "appId": "com.playrix.gardenscapes",
-   "title": "Gardenscapes",
-   "developer": "Playrix",
-   "score": 4.76,
+   "appId": "com.superplaystudios.dicedreams",
+   "title": "Dice Dreams™️",
+   "developer": "SuperPlay.",
+   "score": 4.69,
    "free": null,
    "gross": 5,
    "cats": [
@@ -803,9 +867,9 @@
    "score_rank": 52
   },
   {
-   "appId": "com.playtika.wsop.gp",
-   "title": "WSOP Poker: Texas Holdem Game",
-   "developer": "Playtika",
+   "appId": "com.wizards.mtga",
+   "title": "Magic: The Gathering Arena",
+   "developer": "Wizards of the Coast LLC",
    "score": 4.2,
    "free": null,
    "gross": 5,
@@ -819,26 +883,10 @@
    "score_rank": 52
   },
   {
-   "appId": "com.scopely.yux",
-   "title": "Yahtzee® With Buddies: Dice",
-   "developer": "Scopely",
-   "score": 4.48,
-   "free": null,
-   "gross": 5,
-   "cats": [
-    "GAME_BOARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 52
-  },
-  {
-   "appId": "com.papegames.lysk.en",
-   "title": "Love and Deepspace",
-   "developer": "InFold Pte. Ltd.",
-   "score": 1.79,
+   "appId": "com.crowdstar.covetHome",
+   "title": "Design Home™: House Makeover",
+   "developer": "Crowdstar Inc",
+   "score": 4.33,
    "free": null,
    "gross": 5,
    "cats": [
@@ -851,52 +899,52 @@
    "score_rank": 52
   },
   {
-   "appId": "com.freshplanet.games.SongPop3",
-   "title": "SongPop® - Guess The Song",
-   "developer": "FreshPlanet",
-   "score": 4.14,
-   "free": null,
-   "gross": 5,
-   "cats": [
-    "GAME_TRIVIA"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 52
-  },
-  {
-   "appId": "net.peakgames.match",
-   "title": "Match Factory!",
-   "developer": "Peak",
-   "score": 4.66,
+   "appId": "com.bitmango.go.wordcookies",
+   "title": "Word Cookies! ®",
+   "developer": "BitMango",
+   "score": 4.53,
    "free": null,
    "gross": 6,
-   "cats": [
-    "GAME_PUZZLE"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 50
-  },
-  {
-   "appId": "in.playsimple.crossword.go",
-   "title": "Crossword Go!",
-   "developer": "PlaySimple Games",
-   "score": 4.85,
-   "free": 3,
-   "gross": 20,
    "cats": [
     "GAME_WORD"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
-   "score_rank": 50
+   "score_rank": 51
+  },
+  {
+   "appId": "com.supermarkettycoon.idle",
+   "title": "Supermarket Tycoon Empire",
+   "developer": "Sopot Studios",
+   "score": 4.63,
+   "free": 19,
+   "gross": 20,
+   "cats": [
+    "GAME_SIMULATION"
+   ],
+   "newEntry": true,
+   "bestRise": 2,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 51
+  },
+  {
+   "appId": "com.sonypicturestelevision.jeopardy2",
+   "title": "Jeopardy!® Trivia & Quiz Game",
+   "developer": "Uken Games",
+   "score": 4.37,
+   "free": null,
+   "gross": 6,
+   "cats": [
+    "GAME_TRIVIA"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 51
   },
   {
    "appId": "com.gsn.android.tripeaks",
@@ -915,33 +963,33 @@
    "score_rank": 50
   },
   {
-   "appId": "com.sonypicturestelevision.millionaire",
-   "title": "Official Millionaire Game",
-   "developer": "Uken Games",
-   "score": 4.55,
+   "appId": "com.playrix.homescapes",
+   "title": "Homescapes",
+   "developer": "Playrix",
+   "score": 4.73,
    "free": null,
-   "gross": 6,
+   "gross": 7,
    "cats": [
-    "GAME_TRIVIA"
+    "GAME_CASUAL"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
-   "score_rank": 50
+   "score_rank": 49
   },
   {
    "appId": "com.funcraft.farkle",
    "title": "Farkle Dice Roll",
    "developer": "FunCraft Games",
    "score": 4.88,
-   "free": 10,
-   "gross": 17,
+   "free": 9,
+   "gross": 18,
    "cats": [
     "GAME_BOARD"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 49
@@ -963,46 +1011,14 @@
    "score_rank": 49
   },
   {
-   "appId": "com.hollywood.merge",
-   "title": "Hollywood Merge",
-   "developer": "VoyagerOne IE",
-   "score": 4.67,
-   "free": 23,
-   "gross": 11,
-   "cats": [
-    "GAME_CASUAL"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 48
-  },
-  {
-   "appId": "com.king.candycrushsodasaga",
-   "title": "Candy Crush Soda Saga",
-   "developer": "King",
-   "score": 4.57,
+   "appId": "net.peakgames.match",
+   "title": "Match Factory!",
+   "developer": "Peak",
+   "score": 4.66,
    "free": null,
    "gross": 7,
    "cats": [
-    "GAME_CASUAL"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 48
-  },
-  {
-   "appId": "com.bitmango.go.wordcookies",
-   "title": "Word Cookies! ®",
-   "developer": "BitMango",
-   "score": 4.53,
-   "free": null,
-   "gross": 7,
-   "cats": [
-    "GAME_WORD"
+    "GAME_PUZZLE"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -1043,10 +1059,10 @@
    "score_rank": 48
   },
   {
-   "appId": "com.sonypicturestelevision.jeopardy2",
-   "title": "Jeopardy!® Trivia & Quiz Game",
-   "developer": "Uken Games",
-   "score": 4.37,
+   "appId": "com.freshplanet.games.SongPop3",
+   "title": "SongPop® - Guess The Song",
+   "developer": "FreshPlanet",
+   "score": 4.15,
    "free": null,
    "gross": 7,
    "cats": [
@@ -1059,16 +1075,48 @@
    "score_rank": 48
   },
   {
-   "appId": "com.playrix.homescapes",
-   "title": "Homescapes",
-   "developer": "Playrix",
-   "score": 4.73,
+   "appId": "com.nintendo.zaba",
+   "title": "Fire Emblem Heroes",
+   "developer": "Nintendo Co., Ltd.",
+   "score": 4.47,
+   "free": null,
+   "gross": 8,
+   "cats": [
+    "GAME_SIMULATION"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 47
+  },
+  {
+   "appId": "com.king.candycrushsodasaga",
+   "title": "Candy Crush Soda Saga",
+   "developer": "King",
+   "score": 4.57,
    "free": null,
    "gross": 8,
    "cats": [
     "GAME_CASUAL"
    ],
    "newEntry": false,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 46
+  },
+  {
+   "appId": "in.playsimple.wordsearch",
+   "title": "Word Search Explorer",
+   "developer": "PlaySimple Games",
+   "score": 4.92,
+   "free": 2,
+   "gross": 30,
+   "cats": [
+    "GAME_WORD"
+   ],
+   "newEntry": true,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
@@ -1107,17 +1155,17 @@
    "score_rank": 46
   },
   {
-   "appId": "com.cygames.umamusume",
-   "title": "Umamusume: Pretty Derby",
-   "developer": "Cygames, Inc.",
-   "score": 4.1,
-   "free": null,
-   "gross": 8,
+   "appId": "com.umi.feudlive",
+   "title": "Family Feud® Live!",
+   "developer": "Ludia Inc",
+   "score": 3.44,
+   "free": 22,
+   "gross": 15,
    "cats": [
-    "GAME_SIMULATION"
+    "GAME_TRIVIA"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 5,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 46
@@ -1187,10 +1235,10 @@
    "score_rank": 44
   },
   {
-   "appId": "com.nintendo.zaba",
-   "title": "Fire Emblem Heroes",
-   "developer": "Nintendo Co., Ltd.",
-   "score": 4.47,
+   "appId": "com.cygames.umamusume",
+   "title": "Umamusume: Pretty Derby",
+   "developer": "Cygames, Inc.",
+   "score": 4.11,
    "free": null,
    "gross": 9,
    "cats": [
@@ -1201,6 +1249,54 @@
    "researched": null,
    "usedForIdea": false,
    "score_rank": 44
+  },
+  {
+   "appId": "com.funcraft.dicewords",
+   "title": "Dice Words - Fun Word Game",
+   "developer": "FunCraft Games",
+   "score": 4.91,
+   "free": 12,
+   "gross": 20,
+   "cats": [
+    "GAME_WORD"
+   ],
+   "newEntry": false,
+   "bestRise": 2,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 43
+  },
+  {
+   "appId": "com.vizorapps.klondike",
+   "title": "Klondike Adventures: Farm Game",
+   "developer": "VIZOR APPS LTD.",
+   "score": 4.58,
+   "free": null,
+   "gross": 10,
+   "cats": [
+    "GAME_SIMULATION"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 43
+  },
+  {
+   "appId": "com.mnogoteams.quizblitz",
+   "title": "Quiz Blitz: Test Brain Game",
+   "developer": "Quiz & Trivia Games by Mno Go Apps",
+   "score": 4.82,
+   "free": 9,
+   "gross": 22,
+   "cats": [
+    "GAME_TRIVIA"
+   ],
+   "newEntry": false,
+   "bestRise": 3,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 43
   },
   {
    "appId": "io.randomco.travel",
@@ -1235,17 +1331,17 @@
    "score_rank": 42
   },
   {
-   "appId": "com.fzcq.wzcqand",
-   "title": "Warriors and Adventure",
-   "developer": "Barnard Game",
-   "score": 4.7,
-   "free": null,
-   "gross": 10,
+   "appId": "in.crossy.daily_crossword",
+   "title": "Daily Themed Crossword Puzzles",
+   "developer": "PlaySimple Games",
+   "score": 4.81,
+   "free": 16,
+   "gross": 18,
    "cats": [
     "GAME_WORD"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 42
@@ -1254,7 +1350,7 @@
    "appId": "com.wonderpeople.megahitpoker.global",
    "title": "Mega Hit Poker: Texas Holdem",
    "developer": "Wonder People",
-   "score": 4.58,
+   "score": 4.57,
    "free": null,
    "gross": 10,
    "cats": [
@@ -1262,6 +1358,22 @@
    ],
    "newEntry": false,
    "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 42
+  },
+  {
+   "appId": "com.catdaddy.cat22",
+   "title": "WWE SuperCard Card Battler",
+   "developer": "2K, Inc. - a Take-Two Interactive affiliate",
+   "score": 4.49,
+   "free": null,
+   "gross": 11,
+   "cats": [
+    "GAME_CARD"
+   ],
+   "newEntry": false,
+   "bestRise": 2,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 42
@@ -1283,33 +1395,17 @@
    "score_rank": 42
   },
   {
-   "appId": "com.mhclyxpb.gatja",
-   "title": "Merge Teahouse",
-   "developer": "X.P. Games",
-   "score": 4.18,
+   "appId": "com.superking.ludo.star",
+   "title": "Ludo STAR: Online Dice Game",
+   "developer": "Gameberry Labs",
+   "score": 4.63,
    "free": null,
-   "gross": 10,
+   "gross": 11,
    "cats": [
-    "GAME_SIMULATION"
+    "GAME_BOARD"
    ],
    "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 42
-  },
-  {
-   "appId": "com.moonactive.holestars",
-   "title": "Hole Stars: Puzzle Game",
-   "developer": "Moon Active",
-   "score": 4.69,
-   "free": 20,
-   "gross": 16,
-   "cats": [
-    "GAME_PUZZLE"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 41
@@ -1318,7 +1414,7 @@
    "appId": "com.abi.colony.flow",
    "title": "Colony Flow!",
    "developer": "ABI GAMES PTE. LTD.",
-   "score": 4.42,
+   "score": 4.43,
    "free": null,
    "gross": 11,
    "cats": [
@@ -1347,22 +1443,6 @@
    "score_rank": 40
   },
   {
-   "appId": "in.crossy.daily_crossword",
-   "title": "Daily Themed Crossword Puzzles",
-   "developer": "PlaySimple Games",
-   "score": 4.81,
-   "free": 17,
-   "gross": 18,
-   "cats": [
-    "GAME_WORD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 40
-  },
-  {
    "appId": "in.playsimple.tripcross",
    "title": "Crossword Jam",
    "developer": "PlaySimple Games",
@@ -1379,26 +1459,10 @@
    "score_rank": 40
   },
   {
-   "appId": "air.com.spicerackmedia.bingoshowdown",
-   "title": "Bingo Showdown - Classic Bingo",
-   "developer": "SciPlay (Spicerack)",
-   "score": 4.66,
-   "free": null,
-   "gross": 11,
-   "cats": [
-    "GAME_BOARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 40
-  },
-  {
-   "appId": "com.vizorapps.klondike",
-   "title": "Klondike Adventures: Farm Game",
-   "developer": "VIZOR APPS LTD.",
-   "score": 4.58,
+   "appId": "com.mhclyxpb.gatja",
+   "title": "Merge Teahouse",
+   "developer": "X.P. Games",
+   "score": 4.17,
    "free": null,
    "gross": 11,
    "cats": [
@@ -1411,30 +1475,78 @@
    "score_rank": 40
   },
   {
-   "appId": "com.cola.game",
-   "title": "Flambé®: Merge & Cook",
-   "developer": "Microfun Limited",
-   "score": 4.19,
+   "appId": "com.homagames.studio.allinhole",
+   "title": "All in Hole: Black Hole Games",
+   "developer": "Homa",
+   "score": 4.77,
    "free": null,
    "gross": 12,
    "cats": [
     "GAME_PUZZLE"
    ],
    "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 39
+  },
+  {
+   "appId": "com.d24.rp.open.world.grand.gangster",
+   "title": "Mafia City RP:Grand Open World",
+   "developer": "Universe Game Labs",
+   "score": 4.78,
+   "free": 7,
+   "gross": null,
+   "cats": [
+    "GAME_SIMULATION"
+   ],
+   "newEntry": true,
    "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 39
+  },
+  {
+   "appId": "newspaper.games",
+   "title": "Minipuzzles - Daily Challenges",
+   "developer": "Puzztime!",
+   "score": 4.47,
+   "free": null,
+   "gross": 12,
+   "cats": [
+    "GAME_TRIVIA"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 39
+  },
+  {
+   "appId": "com.olleyo.piggy.king.free",
+   "title": "Piggy Kingdom",
+   "developer": "olleyo",
+   "score": 4.84,
+   "free": null,
+   "gross": 13,
+   "cats": [
+    "GAME_CASUAL"
+   ],
+   "newEntry": false,
+   "bestRise": 2,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 38
   },
   {
-   "appId": "jp.konami.masterduel",
-   "title": "Yu-Gi-Oh! Master Duel",
-   "developer": "KONAMI",
-   "score": 4.33,
+   "appId": "com.fzcq.wzcqand",
+   "title": "Warriors and Adventure",
+   "developer": "Barnard Game",
+   "score": 4.7,
    "free": null,
    "gross": 12,
    "cats": [
-    "GAME_CARD"
+    "GAME_WORD"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -1443,10 +1555,10 @@
    "score_rank": 38
   },
   {
-   "appId": "com.superking.ludo.star",
-   "title": "Ludo STAR: Online Dice Game",
-   "developer": "Gameberry Labs",
-   "score": 4.63,
+   "appId": "air.com.spicerackmedia.bingoshowdown",
+   "title": "Bingo Showdown - Classic Bingo",
+   "developer": "SciPlay (Spicerack)",
+   "score": 4.66,
    "free": null,
    "gross": 12,
    "cats": [
@@ -1478,107 +1590,27 @@
    "appId": "com.mnogoteams.triviablocks",
    "title": "Wood Quiz Blast: Trivia Blocks",
    "developer": "Quiz & Trivia Games by Mno Go Apps",
-   "score": 4.81,
-   "free": 13,
-   "gross": 21,
+   "score": 4.8,
+   "free": 11,
+   "gross": 23,
    "cats": [
     "GAME_TRIVIA"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 2,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 38
   },
   {
-   "appId": "com.art.pixel.black.girl.games.paint.color.by.numbers",
-   "title": "Black Color Paint By Number",
-   "developer": "Art Coloring Group",
-   "score": 4.83,
-   "free": 15,
-   "gross": 20,
-   "cats": [
-    "GAME_TRIVIA"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 38
-  },
-  {
-   "appId": "com.trivia.star.android",
-   "title": "TRIVIA STAR Quiz Games Offline",
-   "developer": "Super Free",
-   "score": 4.76,
-   "free": null,
-   "gross": 12,
-   "cats": [
-    "GAME_TRIVIA"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 38
-  },
-  {
-   "appId": "com.funcraft.dicewords",
-   "title": "Dice Words - Fun Word Game",
-   "developer": "FunCraft Games",
-   "score": 4.91,
-   "free": 12,
-   "gross": 22,
-   "cats": [
-    "GAME_WORD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 37
-  },
-  {
-   "appId": "com.mnogoteams.quizblitz",
-   "title": "Quiz Blitz: Test Brain Game",
-   "developer": "Quiz & Trivia Games by Mno Go Apps",
-   "score": 4.82,
-   "free": 12,
-   "gross": 22,
-   "cats": [
-    "GAME_TRIVIA"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 37
-  },
-  {
-   "appId": "com.homagames.studio.allinhole",
-   "title": "All in Hole: Black Hole Games",
-   "developer": "Homa",
-   "score": 4.77,
+   "appId": "com.cola.game",
+   "title": "Flambé®: Merge & Cook",
+   "developer": "Microfun Limited",
+   "score": 4.19,
    "free": null,
    "gross": 13,
    "cats": [
     "GAME_PUZZLE"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 36
-  },
-  {
-   "appId": "com.online.huntingsniper",
-   "title": "Hunting Sniper",
-   "developer": "Sparks Info",
-   "score": 4.3,
-   "free": null,
-   "gross": 13,
-   "cats": [
-    "GAME_CASUAL"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -1603,10 +1635,26 @@
    "score_rank": 36
   },
   {
-   "appId": "com.catdaddy.cat22",
-   "title": "WWE SuperCard Card Battler",
-   "developer": "2K, Inc. - a Take-Two Interactive affiliate",
-   "score": 4.49,
+   "appId": "com.scopely.wheeloffortune",
+   "title": "Wheel of Fortune Official Game",
+   "developer": "Scopely",
+   "score": 4.62,
+   "free": null,
+   "gross": 14,
+   "cats": [
+    "GAME_WORD"
+   ],
+   "newEntry": false,
+   "bestRise": 2,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 36
+  },
+  {
+   "appId": "jp.konami.masterduel",
+   "title": "Yu-Gi-Oh! Master Duel",
+   "developer": "KONAMI",
+   "score": 4.33,
    "free": null,
    "gross": 13,
    "cats": [
@@ -1651,26 +1699,10 @@
    "score_rank": 36
   },
   {
-   "appId": "com.umi.feudlive",
-   "title": "Family Feud® Live!",
-   "developer": "Ludia Inc",
-   "score": 3.44,
-   "free": 27,
-   "gross": 15,
-   "cats": [
-    "GAME_TRIVIA"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 36
-  },
-  {
-   "appId": "newspaper.games",
-   "title": "Minipuzzles - Daily Challenges",
-   "developer": "Puzztime!",
-   "score": 4.47,
+   "appId": "com.trivia.star.android",
+   "title": "TRIVIA STAR Quiz Games Offline",
+   "developer": "Super Free",
+   "score": 4.76,
    "free": null,
    "gross": 13,
    "cats": [
@@ -1683,28 +1715,44 @@
    "score_rank": 36
   },
   {
-   "appId": "com.zigzagame.paranoize",
-   "title": "Paranoize",
-   "developer": "ZigZaGame Inc.",
-   "score": 4.62,
-   "free": 2,
-   "gross": 28,
+   "appId": "com.kamagames.pokerist",
+   "title": "Texas Hold'em Poker: Pokerist",
+   "developer": "KamaGames",
+   "score": 4.38,
+   "free": null,
+   "gross": 15,
    "cats": [
-    "GAME_SIMULATION"
+    "GAME_CARD"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 3,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 35
   },
   {
-   "appId": "pt.cosmicode.truthordare",
-   "title": "Truth or Dare - Dirty & Spicy",
-   "developer": "Cosmicode",
-   "score": 4.78,
-   "free": 26,
-   "gross": 16,
+   "appId": "com.funcraft.bingodice",
+   "title": "Bingo Dice",
+   "developer": "FunCraft Games",
+   "score": 4.91,
+   "free": 11,
+   "gross": 24,
+   "cats": [
+    "GAME_BOARD"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 35
+  },
+  {
+   "appId": "com.art.pixel.black.girl.games.paint.color.by.numbers",
+   "title": "Black Color Paint By Number",
+   "developer": "Art Coloring Group",
+   "score": 4.83,
+   "free": 18,
+   "gross": 20,
    "cats": [
     "GAME_TRIVIA"
    ],
@@ -1715,14 +1763,14 @@
    "score_rank": 35
   },
   {
-   "appId": "com.rovio.baba",
-   "title": "Angry Birds 2",
-   "developer": "Rovio Entertainment Oy",
-   "score": 4.06,
-   "free": null,
-   "gross": 14,
+   "appId": "com.moonactive.holestars",
+   "title": "Hole Stars: Puzzle Game",
+   "developer": "Moon Active",
+   "score": 4.7,
+   "free": 27,
+   "gross": 16,
    "cats": [
-    "GAME_CASUAL"
+    "GAME_PUZZLE"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -1731,14 +1779,14 @@
    "score_rank": 34
   },
   {
-   "appId": "com.zynga.words",
-   "title": "Classic Words With Friends",
-   "developer": "Zynga",
-   "score": 4.19,
+   "appId": "com.online.huntingsniper",
+   "title": "Hunting Sniper",
+   "developer": "Sparks Info",
+   "score": 4.3,
    "free": null,
    "gross": 14,
    "cats": [
-    "GAME_WORD"
+    "GAME_CASUAL"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -1766,7 +1814,7 @@
    "appId": "com.withbuddies.dice.free",
    "title": "Dice With Buddies™ Social Game",
    "developer": "Scopely",
-   "score": 4.13,
+   "score": 4.12,
    "free": null,
    "gross": 14,
    "cats": [
@@ -1795,6 +1843,22 @@
    "score_rank": 34
   },
   {
+   "appId": "jp.pokemon.pokemonsleep",
+   "title": "Pokémon Sleep",
+   "developer": "The Pokémon Company",
+   "score": 4.4,
+   "free": null,
+   "gross": 15,
+   "cats": [
+    "GAME_SIMULATION"
+   ],
+   "newEntry": false,
+   "bestRise": 2,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 34
+  },
+  {
    "appId": "com.wallpaper4d.parallax4d.pixel3d.topwallpapers.best.live.wallpaper.video.clock.camera.hdwallpapers.free.pro",
    "title": "Listenary-Enjoy AudioBooks",
    "developer": "fancyLab",
@@ -1811,140 +1875,60 @@
    "score_rank": 34
   },
   {
-   "appId": "com.funcraft.bingodice",
-   "title": "Bingo Dice",
-   "developer": "FunCraft Games",
-   "score": 4.91,
-   "free": 12,
-   "gross": 24,
+   "appId": "com.farlightgames.pgame.gp",
+   "title": "Clash of Critters",
+   "developer": "FARLIGHT",
+   "score": 4.21,
+   "free": null,
+   "gross": 15,
    "cats": [
-    "GAME_BOARD"
+    "GAME_CASUAL"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 33
   },
   {
-   "appId": "com.olleyo.piggy.king.free",
-   "title": "Piggy Kingdom",
-   "developer": "olleyo",
-   "score": 4.84,
-   "free": null,
-   "gross": 15,
-   "cats": [
-    "GAME_CASUAL"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 32
-  },
-  {
-   "appId": "com.kamagames.blackjack",
-   "title": "Blackjack 21: Blackjackist",
-   "developer": "KamaGames",
-   "score": 4.49,
-   "free": null,
-   "gross": 15,
-   "cats": [
-    "GAME_CARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 32
-  },
-  {
-   "appId": "com.computerlunch.evolution",
-   "title": "Cell to Singularity: Evolution",
-   "developer": "ComputerLunch",
-   "score": 4.49,
-   "free": null,
-   "gross": 15,
-   "cats": [
-    "GAME_SIMULATION"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 32
-  },
-  {
-   "appId": "com.Garawell.LoopSort",
-   "title": "Loop Sort",
-   "developer": "VOODOO",
-   "score": 4.45,
-   "free": 16,
-   "gross": 23,
-   "cats": [
-    "GAME_PUZZLE"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 31
-  },
-  {
-   "appId": "bus.sand.fall.jam.loop.traffic.flow",
-   "title": "Jam Bus:Sandfall",
-   "developer": "Nova Games Technology Limited",
-   "score": 4.79,
-   "free": 14,
-   "gross": 24,
-   "cats": [
-    "GAME_CASUAL"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 31
-  },
-  {
-   "appId": "com.oakever.meowdoku",
-   "title": "Meowdoku: Brain Puzzle Games",
-   "developer": "Oakever Games",
-   "score": 4.64,
+   "appId": "com.gamefactory.roomsort",
+   "title": "Amochiroom Puzzle: Room Sort",
+   "developer": "ABF ALPENHOF",
+   "score": 4.58,
    "free": 1,
    "gross": null,
    "cats": [
     "GAME_PUZZLE"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 2,
    "researched": null,
    "usedForIdea": false,
-   "score_rank": 30
+   "score_rank": 32
   },
   {
-   "appId": "com.farlightgames.pgame.gp",
-   "title": "Clash of Critters",
-   "developer": "FARLIGHT",
-   "score": 4.21,
-   "free": null,
-   "gross": 16,
+   "appId": "bus.sand.fall.jam.loop.traffic.flow",
+   "title": "Jam Bus:Sandfall",
+   "developer": "Nova Games Technology Limited",
+   "score": 4.78,
+   "free": 16,
+   "gross": 23,
    "cats": [
     "GAME_CASUAL"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
-   "score_rank": 30
+   "score_rank": 32
   },
   {
-   "appId": "com.scopely.wheeloffortune",
-   "title": "Wheel of Fortune Official Game",
-   "developer": "Scopely",
-   "score": 4.62,
+   "appId": "com.zynga.words",
+   "title": "Classic Words With Friends",
+   "developer": "Zynga",
+   "score": 4.19,
    "free": null,
-   "gross": 16,
+   "gross": 15,
    "cats": [
     "GAME_WORD"
    ],
@@ -1952,13 +1936,205 @@
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
+   "score_rank": 32
+  },
+  {
+   "appId": "com.jellybtn.boardkings",
+   "title": "Board Kings: Board Dice Games",
+   "developer": "Playtika",
+   "score": 4.65,
+   "free": null,
+   "gross": 16,
+   "cats": [
+    "GAME_BOARD"
+   ],
+   "newEntry": false,
+   "bestRise": 2,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 32
+  },
+  {
+   "appId": "com.almondparty.flashback",
+   "title": "Flashback Trivia: Quiz Game",
+   "developer": "Lucky Echo Labs",
+   "score": 4.57,
+   "free": 10,
+   "gross": 26,
+   "cats": [
+    "GAME_TRIVIA"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 32
+  },
+  {
+   "appId": "pt.cosmicode.truthordare",
+   "title": "Truth or Dare - Dirty & Spicy",
+   "developer": "Cosmicode",
+   "score": 4.78,
+   "free": 29,
+   "gross": 16,
+   "cats": [
+    "GAME_TRIVIA"
+   ],
+   "newEntry": false,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 32
+  },
+  {
+   "appId": "com.gimica.wordseeker",
+   "title": "Word Seeker",
+   "developer": "Gimica GmbH",
+   "score": 4.37,
+   "free": 14,
+   "gross": null,
+   "cats": [
+    "GAME_WORD"
+   ],
+   "newEntry": false,
+   "bestRise": 14,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 31
+  },
+  {
+   "appId": "com.gimica.spidersolitaire",
+   "title": "Spider Solitaire",
+   "developer": "Gimica GmbH",
+   "score": 4.55,
+   "free": 11,
+   "gross": null,
+   "cats": [
+    "GAME_CARD"
+   ],
+   "newEntry": false,
+   "bestRise": 11,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 31
+  },
+  {
+   "appId": "com.gtsy.annoying.punch.game",
+   "title": "Annoying Uncle Punch Game®",
+   "developer": "Game District LLC",
+   "score": 4.52,
+   "free": 3,
+   "gross": null,
+   "cats": [
+    "GAME_SIMULATION"
+   ],
+   "newEntry": false,
+   "bestRise": 3,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 31
+  },
+  {
+   "appId": "com.metax.obby.escape.run",
+   "title": "Keyboard Escape: +1 Speed ASMR",
+   "developer": "Goldoint",
+   "score": 3.26,
+   "free": 5,
+   "gross": null,
+   "cats": [
+    "GAME_SIMULATION"
+   ],
+   "newEntry": false,
+   "bestRise": 5,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 31
+  },
+  {
+   "appId": "fi.reworks.redecor",
+   "title": "Redecor - Home Design Game",
+   "developer": "Reworks Ltd.",
+   "score": 4.52,
+   "free": null,
+   "gross": 17,
+   "cats": [
+    "GAME_SIMULATION"
+   ],
+   "newEntry": false,
+   "bestRise": 3,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 31
+  },
+  {
+   "appId": "to.krillion.app",
+   "title": "Rarest Krill: Trivia & Quiz",
+   "developer": "NOTHING AI",
+   "score": 3.33,
+   "free": 12,
+   "gross": null,
+   "cats": [
+    "GAME_TRIVIA"
+   ],
+   "newEntry": false,
+   "bestRise": 12,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 31
+  },
+  {
+   "appId": "com.rovio.baba",
+   "title": "Angry Birds 2",
+   "developer": "Rovio Entertainment Oy",
+   "score": 4.06,
+   "free": null,
+   "gross": 16,
+   "cats": [
+    "GAME_CASUAL"
+   ],
+   "newEntry": false,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
    "score_rank": 30
   },
   {
-   "appId": "com.blizzard.wtcg.hearthstone",
-   "title": "Hearthstone",
-   "developer": "Blizzard Entertainment, Inc.",
-   "score": 4.11,
+   "appId": "com.funtomic.matchmasters",
+   "title": "Match Masters",
+   "developer": "Candivore",
+   "score": 4.76,
+   "free": null,
+   "gross": 17,
+   "cats": [
+    "GAME_CASUAL"
+   ],
+   "newEntry": false,
+   "bestRise": 2,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 30
+  },
+  {
+   "appId": "com.smilerlee.klondike",
+   "title": "Solitaire",
+   "developer": "Mouse Games",
+   "score": 4.53,
+   "free": 3,
+   "gross": null,
+   "cats": [
+    "GAME_CARD"
+   ],
+   "newEntry": false,
+   "bestRise": 2,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 30
+  },
+  {
+   "appId": "com.kamagames.blackjack",
+   "title": "Blackjack 21: Blackjackist",
+   "developer": "KamaGames",
+   "score": 4.49,
    "free": null,
    "gross": 16,
    "cats": [
@@ -1987,22 +2163,6 @@
    "score_rank": 30
   },
   {
-   "appId": "com.weplaydots.twodotsandroid",
-   "title": "Two Dots: Brain Puzzle Games",
-   "developer": "PlayDots",
-   "score": 4.27,
-   "free": null,
-   "gross": 16,
-   "cats": [
-    "GAME_BOARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 30
-  },
-  {
    "appId": "com.studio27.MelonPlayground",
    "title": "Melon Sandbox",
    "developer": "playducky.com",
@@ -2013,6 +2173,54 @@
     "GAME_SIMULATION"
    ],
    "newEntry": false,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 30
+  },
+  {
+   "appId": "com.paradyme.solarsmash",
+   "title": "Solar Smash",
+   "developer": "Paradyme Games",
+   "score": 4.57,
+   "free": 2,
+   "gross": null,
+   "cats": [
+    "GAME_SIMULATION"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 30
+  },
+  {
+   "appId": "com.pdd.sfungames",
+   "title": "Dino Dig Tycoon",
+   "developer": "SFungames",
+   "score": 4.58,
+   "free": 4,
+   "gross": null,
+   "cats": [
+    "GAME_SIMULATION"
+   ],
+   "newEntry": false,
+   "bestRise": 3,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 30
+  },
+  {
+   "appId": "com.skincare.makeup.makeover.asmr.game",
+   "title": "Skincare ASMR: Makeover Game",
+   "developer": "CAT Studio",
+   "score": 4.16,
+   "free": 16,
+   "gross": null,
+   "cats": [
+    "GAME_SIMULATION"
+   ],
+   "newEntry": true,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
@@ -2035,28 +2243,12 @@
    "score_rank": 30
   },
   {
-   "appId": "com.almondparty.flashback",
-   "title": "Flashback Trivia: Quiz Game",
-   "developer": "Lucky Echo Labs",
-   "score": 4.57,
-   "free": 11,
-   "gross": 26,
-   "cats": [
-    "GAME_TRIVIA"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 30
-  },
-  {
-   "appId": "com.block.juggle",
-   "title": "Block Blast!",
-   "developer": "HungryStudio",
-   "score": 4.84,
-   "free": 2,
-   "gross": null,
+   "appId": "com.Garawell.LoopSort",
+   "title": "Loop Sort",
+   "developer": "VOODOO",
+   "score": 4.45,
+   "free": 18,
+   "gross": 23,
    "cats": [
     "GAME_PUZZLE"
    ],
@@ -2070,7 +2262,7 @@
    "appId": "gridplus.busjam.carpuzzle",
    "title": "Bus Fever Party!",
    "developer": "Lumi Games",
-   "score": 3.96,
+   "score": 3.98,
    "free": 2,
    "gross": null,
    "cats": [
@@ -2083,17 +2275,17 @@
    "score_rank": 29
   },
   {
-   "appId": "in.playsimple.wordsearch",
-   "title": "Word Search Explorer",
-   "developer": "PlaySimple Games",
-   "score": 4.92,
-   "free": 2,
+   "appId": "com.hp.clicker.diy.asmr.charm.master",
+   "title": "Clicker DIY: ASMR Charm Master",
+   "developer": "HIGAME Studio",
+   "score": 3.99,
+   "free": 4,
    "gross": null,
    "cats": [
-    "GAME_WORD"
+    "GAME_CASUAL"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 2,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 29
@@ -2115,26 +2307,42 @@
    "score_rank": 29
   },
   {
-   "appId": "com.nebula.mahjongtile",
-   "title": "Mahjong Blast",
-   "developer": "Nebula  Studio",
-   "score": 4.81,
-   "free": 2,
-   "gross": null,
+   "appId": "com.tensquaregames.letsfish2",
+   "title": "Fishing Clash: Sport Simulator",
+   "developer": "Ten Square Games",
+   "score": 4.74,
+   "free": null,
+   "gross": 18,
    "cats": [
-    "GAME_BOARD"
+    "GAME_SIMULATION"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 3,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 29
   },
   {
-   "appId": "com.gamefactory.roomsort",
-   "title": "Amochiroom Puzzle: Room Sort",
-   "developer": "ABF ALPENHOF",
-   "score": 4.75,
+   "appId": "find.difference.spot.differences.greyfun.puzzle.game.free",
+   "title": "Find Differences: Spot it!",
+   "developer": "Greyfun Games",
+   "score": 4.87,
+   "free": 4,
+   "gross": null,
+   "cats": [
+    "GAME_TRIVIA"
+   ],
+   "newEntry": false,
+   "bestRise": 2,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 29
+  },
+  {
+   "appId": "com.oakever.meowdoku",
+   "title": "Meowdoku: Brain Puzzle Games",
+   "developer": "Oakever Games",
+   "score": 4.64,
    "free": 3,
    "gross": null,
    "cats": [
@@ -2163,22 +2371,6 @@
    "score_rank": 28
   },
   {
-   "appId": "com.fatr.global",
-   "title": "Hotel Legacy: Merge Game",
-   "developer": "Century Games Innovation Pte. Ltd.",
-   "score": 4.7,
-   "free": null,
-   "gross": 17,
-   "cats": [
-    "GAME_CASUAL"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 28
-  },
-  {
    "appId": "se.maginteractive.wordzee",
    "title": "Wordzee! - Puzzle Word Game",
    "developer": "MAG Interactive",
@@ -2190,6 +2382,22 @@
    ],
    "newEntry": false,
    "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 28
+  },
+  {
+   "appId": "com.gimica.solitaireverse",
+   "title": "Solitaire Verse",
+   "developer": "Gimica GmbH",
+   "score": 4.57,
+   "free": 5,
+   "gross": null,
+   "cats": [
+    "GAME_CARD"
+   ],
+   "newEntry": false,
+   "bestRise": 2,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 28
@@ -2211,14 +2419,14 @@
    "score_rank": 28
   },
   {
-   "appId": "com.paradyme.solarsmash",
-   "title": "Solar Smash",
-   "developer": "Paradyme Games",
-   "score": 4.57,
+   "appId": "com.nebula.mahjongtile",
+   "title": "Mahjong Blast",
+   "developer": "Nebula  Studio",
+   "score": 4.81,
    "free": 3,
    "gross": null,
    "cats": [
-    "GAME_SIMULATION"
+    "GAME_BOARD"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -2227,14 +2435,14 @@
    "score_rank": 28
   },
   {
-   "appId": "jp.pokemon.pokemonsleep",
-   "title": "Pokémon Sleep",
-   "developer": "The Pokémon Company",
-   "score": 4.41,
+   "appId": "com.weplaydots.twodotsandroid",
+   "title": "Two Dots: Brain Puzzle Games",
+   "developer": "PlayDots",
+   "score": 4.26,
    "free": null,
    "gross": 17,
    "cats": [
-    "GAME_SIMULATION"
+    "GAME_BOARD"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -2243,16 +2451,32 @@
    "score_rank": 28
   },
   {
-   "appId": "com.fullfat.textordie",
-   "title": "Text or Die",
-   "developer": "Rollic Games",
-   "score": 4.05,
-   "free": 3,
+   "appId": "com.playground.sprunki.sandbox",
+   "title": "Spooky Playground: Sandbox",
+   "developer": "Logic Apz",
+   "score": 3.66,
+   "free": 12,
    "gross": null,
    "cats": [
-    "GAME_TRIVIA"
+    "GAME_SIMULATION"
    ],
    "newEntry": false,
+   "bestRise": 9,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 28
+  },
+  {
+   "appId": "com.rockydessert.cashierlife",
+   "title": "Cashier Life: Store Simulator",
+   "developer": "Wuhan Sonow technology co ltd",
+   "score": 4.88,
+   "free": 18,
+   "gross": null,
+   "cats": [
+    "GAME_SIMULATION"
+   ],
+   "newEntry": true,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
@@ -2262,7 +2486,7 @@
    "appId": "com.sporcle.geneva",
    "title": "Sporcle : Play Trivia Quizzes",
    "developer": "Sporcle, Inc",
-   "score": 4.34,
+   "score": 4.29,
    "free": null,
    "gross": 17,
    "cats": [
@@ -2275,14 +2499,14 @@
    "score_rank": 28
   },
   {
-   "appId": "com.mimik.challenge.fun",
-   "title": "MemeMix Challenge: Funny Party",
-   "developer": "Amobear VN Game Global",
-   "score": 3.87,
+   "appId": "com.block.juggle",
+   "title": "Block Blast!",
+   "developer": "HungryStudio",
+   "score": 4.84,
    "free": 4,
    "gross": null,
    "cats": [
-    "GAME_CASUAL"
+    "GAME_PUZZLE"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -2291,10 +2515,26 @@
    "score_rank": 27
   },
   {
+   "appId": "com.nebula.rotaterings",
+   "title": "Rotate Rings",
+   "developer": "Nebula  Studio",
+   "score": 4.78,
+   "free": 5,
+   "gross": null,
+   "cats": [
+    "GAME_PUZZLE"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 27
+  },
+  {
    "appId": "com.tripledot.spades",
    "title": "Spades - Classic Cards",
    "developer": "Tripledot Studios Limited",
-   "score": 4.84,
+   "score": 4.85,
    "free": 4,
    "gross": null,
    "cats": [
@@ -2307,36 +2547,100 @@
    "score_rank": 27
   },
   {
-   "appId": "com.studio6.toystore",
-   "title": "Tidy Everything!",
-   "developer": "SayGames Ltd",
-   "score": 3.17,
-   "free": 4,
+   "appId": "com.gamemaker.rummy.free.puzzle",
+   "title": "Rummy 500",
+   "developer": "Game Maker Ltd.",
+   "score": 4.63,
+   "free": 6,
    "gross": null,
    "cats": [
-    "GAME_SIMULATION"
+    "GAME_CARD"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 2,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 27
   },
   {
-   "appId": "com.xmonetize.quizzland",
-   "title": "QuizzLand. Quiz & Trivia game",
+   "appId": "com.heartsnet.clickwood.gp",
+   "title": "Click Wood",
+   "developer": "Heartsnet",
+   "score": 4.59,
+   "free": 6,
+   "gross": null,
+   "cats": [
+    "GAME_BOARD"
+   ],
+   "newEntry": false,
+   "bestRise": 2,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 27
+  },
+  {
+   "appId": "com.gameberry.sorry.card.board.game",
+   "title": "Sorry! World Online Board game",
+   "developer": "Gameberry Labs",
+   "score": 4.54,
+   "free": 29,
+   "gross": 19,
+   "cats": [
+    "GAME_BOARD"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 27
+  },
+  {
+   "appId": "com.mnogoteams.guesstheanswer",
+   "title": "Guess The Answer: Trivia Game",
    "developer": "Quiz & Trivia Games by Mno Go Apps",
-   "score": 4.78,
-   "free": 20,
-   "gross": 23,
+   "score": 4.85,
+   "free": 6,
+   "gross": null,
    "cats": [
     "GAME_TRIVIA"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 2,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 27
+  },
+  {
+   "appId": "com.krillion.game",
+   "title": "Krillion Trivia & Word Game",
+   "developer": "AppStation Studio",
+   "score": 4.6,
+   "free": 17,
+   "gross": null,
+   "cats": [
+    "GAME_TRIVIA"
+   ],
+   "newEntry": false,
+   "bestRise": 13,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 27
+  },
+  {
+   "appId": "com.blockblast.lite",
+   "title": "Block Blast Lite",
+   "developer": "HungryStudio",
+   "score": 4.93,
+   "free": 7,
+   "gross": null,
+   "cats": [
+    "GAME_PUZZLE"
+   ],
+   "newEntry": false,
+   "bestRise": 2,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 26
   },
   {
    "appId": "net.peakgames.amy",
@@ -2371,10 +2675,26 @@
    "score_rank": 26
   },
   {
+   "appId": "com.liteorange.hometopia",
+   "title": "Frost Valley™: Merge & Story",
+   "developer": "Tuyoo Games (HK) Limited",
+   "score": 4.76,
+   "free": 12,
+   "gross": null,
+   "cats": [
+    "GAME_CASUAL"
+   ],
+   "newEntry": false,
+   "bestRise": 7,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 26
+  },
+  {
    "appId": "com.fs.block",
    "title": "Color Block: Puzzle Jam 3D",
    "developer": "Flare Star LLC",
-   "score": 4.42,
+   "score": 4.41,
    "free": null,
    "gross": 18,
    "cats": [
@@ -2387,26 +2707,26 @@
    "score_rank": 26
   },
   {
-   "appId": "com.smilerlee.klondike",
-   "title": "Solitaire",
-   "developer": "Mouse Games",
-   "score": 4.53,
-   "free": 5,
+   "appId": "com.vottzapps.wordle",
+   "title": "Wordle!",
+   "developer": "Lion Studios Plus",
+   "score": 4.48,
+   "free": 8,
    "gross": null,
    "cats": [
-    "GAME_CARD"
+    "GAME_WORD"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 3,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 26
   },
   {
-   "appId": "com.kamagames.pokerist",
-   "title": "Texas Hold'em Poker: Pokerist",
-   "developer": "KamaGames",
-   "score": 4.38,
+   "appId": "com.blizzard.wtcg.hearthstone",
+   "title": "Hearthstone",
+   "developer": "Blizzard Entertainment, Inc.",
+   "score": 4.1,
    "free": null,
    "gross": 18,
    "cats": [
@@ -2435,58 +2755,26 @@
    "score_rank": 26
   },
   {
-   "appId": "com.jellybtn.boardkings",
-   "title": "Board Kings: Board Dice Games",
-   "developer": "Playtika",
-   "score": 4.65,
-   "free": null,
-   "gross": 18,
-   "cats": [
-    "GAME_BOARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 26
-  },
-  {
-   "appId": "com.cscmobi.livestream.idle.clicker",
-   "title": "Viral Streamer: Idle Clicker",
-   "developer": "CSCMobi Studios",
-   "score": 4.56,
-   "free": 5,
-   "gross": null,
+   "appId": "com.outloud.idlefrog",
+   "title": "Frogs Kitchen",
+   "developer": "OUTLOU:D GAMES",
+   "score": 4.48,
+   "free": 22,
+   "gross": 30,
    "cats": [
     "GAME_SIMULATION"
    ],
-   "newEntry": false,
+   "newEntry": true,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 26
   },
   {
-   "appId": "com.ea.game.simcitymobile_row",
-   "title": "SimCity BuildIt",
-   "developer": "ELECTRONIC ARTS",
-   "score": 4.06,
-   "free": null,
-   "gross": 18,
-   "cats": [
-    "GAME_SIMULATION"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 26
-  },
-  {
-   "appId": "com.trivia.millionaire.classic",
-   "title": "Millionaire Classic : Trivia",
-   "developer": "Evrika Games LLC",
-   "score": 4.62,
+   "appId": "com.fullfat.textordie",
+   "title": "Text or Die",
+   "developer": "Rollic Games",
+   "score": 4.05,
    "free": 5,
    "gross": null,
    "cats": [
@@ -2494,6 +2782,22 @@
    ],
    "newEntry": false,
    "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 26
+  },
+  {
+   "appId": "com.unicostudio.braintestlegacy",
+   "title": "Brain Test All-Star: IQ Boost",
+   "developer": "Unico Studio",
+   "score": 4.75,
+   "free": 20,
+   "gross": 24,
+   "cats": [
+    "GAME_TRIVIA"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 26
@@ -2502,7 +2806,7 @@
    "appId": "com.erudite.trivia.brain.quiz.mind.game",
    "title": "Erudite: Trivia Games & Quiz",
    "developer": "Mioris LTD",
-   "score": 4.68,
+   "score": 4.67,
    "free": null,
    "gross": 18,
    "cats": [
@@ -2515,94 +2819,30 @@
    "score_rank": 26
   },
   {
-   "appId": "com.nebula.rotaterings",
-   "title": "Rotate Rings",
-   "developer": "Nebula  Studio",
-   "score": 4.78,
-   "free": 6,
+   "appId": "pixelora.flow.pixel.art.snake.puzzle.game",
+   "title": "Pixelora Flow",
+   "developer": "HappyTapLand",
+   "score": 4.98,
+   "free": 12,
    "gross": null,
    "cats": [
     "GAME_PUZZLE"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 6,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 25
   },
   {
-   "appId": "com.hp.clicker.diy.asmr.charm.master",
-   "title": "Clicker DIY: ASMR Charm Master",
-   "developer": "HIGAME Studio",
-   "score": 3.92,
-   "free": 6,
-   "gross": null,
-   "cats": [
-    "GAME_CASUAL"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 25
-  },
-  {
-   "appId": "com.tfgco.apps.coloring.free.color.by.number",
-   "title": "Color by Number：Coloring Games",
-   "developer": "Wildlife Studios",
-   "score": 4.67,
-   "free": 6,
-   "gross": null,
-   "cats": [
-    "GAME_BOARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 25
-  },
-  {
-   "appId": "com.gameberry.sorry.card.board.game",
-   "title": "Sorry! World Online Board game",
-   "developer": "Gameberry Labs",
-   "score": 4.53,
-   "free": 28,
-   "gross": 20,
-   "cats": [
-    "GAME_BOARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 25
-  },
-  {
-   "appId": "com.gtsy.annoying.punch.game",
-   "title": "Annoying Uncle Punch Game®",
-   "developer": "Game District LLC",
-   "score": 4.52,
+   "appId": "com.zigzagame.paranoize",
+   "title": "Paranoize",
+   "developer": "ZigZaGame Inc.",
+   "score": 4.64,
    "free": 6,
    "gross": null,
    "cats": [
     "GAME_SIMULATION"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 25
-  },
-  {
-   "appId": "find.difference.spot.differences.greyfun.puzzle.game.free",
-   "title": "Find Differences: Spot it!",
-   "developer": "Greyfun Games",
-   "score": 4.86,
-   "free": 6,
-   "gross": null,
-   "cats": [
-    "GAME_TRIVIA"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -2614,7 +2854,7 @@
    "appId": "jp.co.goodroid.hyper.busflow",
    "title": "Bus Traffic Fever!",
    "developer": "GOODROID,Inc.",
-   "score": 4.09,
+   "score": 4.08,
    "free": null,
    "gross": 19,
    "cats": [
@@ -2627,12 +2867,12 @@
    "score_rank": 24
   },
   {
-   "appId": "com.funtomic.matchmasters",
-   "title": "Match Masters",
-   "developer": "Candivore",
-   "score": 4.76,
-   "free": null,
-   "gross": 19,
+   "appId": "com.mimik.challenge.fun",
+   "title": "MemeMix Challenge: Funny Party",
+   "developer": "Amobear VN Game Global",
+   "score": 3.79,
+   "free": 7,
+   "gross": null,
    "cats": [
     "GAME_CASUAL"
    ],
@@ -2643,30 +2883,14 @@
    "score_rank": 24
   },
   {
-   "appId": "com.platinumplayer.word.addict",
-   "title": "Word Collect - Word Games Fun",
-   "developer": "Super Free",
-   "score": 4.68,
+   "appId": "com.fatr.global",
+   "title": "Hotel Legacy: Merge Game",
+   "developer": "Century Games Innovation Pte. Ltd.",
+   "score": 4.73,
    "free": null,
    "gross": 19,
    "cats": [
-    "GAME_WORD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 24
-  },
-  {
-   "appId": "com.gimica.solitaireverse",
-   "title": "Solitaire Verse",
-   "developer": "Gimica GmbH",
-   "score": 4.57,
-   "free": 7,
-   "gross": null,
-   "cats": [
-    "GAME_CARD"
+    "GAME_CASUAL"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -2707,14 +2931,14 @@
    "score_rank": 24
   },
   {
-   "appId": "com.superking.parchisi.star",
-   "title": "Parchisi STAR Online",
-   "developer": "Gameberry Labs",
-   "score": 4.68,
+   "appId": "com.ea.game.simcitymobile_row",
+   "title": "SimCity BuildIt",
+   "developer": "ELECTRONIC ARTS",
+   "score": 4.06,
    "free": null,
    "gross": 19,
    "cats": [
-    "GAME_BOARD"
+    "GAME_SIMULATION"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -2723,44 +2947,12 @@
    "score_rank": 24
   },
   {
-   "appId": "com.pdd.sfungames",
-   "title": "Dino Dig Tycoon",
-   "developer": "SFungames",
-   "score": 4.6,
+   "appId": "com.trivia.millionaire.classic",
+   "title": "Millionaire Classic : Trivia",
+   "developer": "Evrika Games LLC",
+   "score": 4.63,
    "free": 7,
    "gross": null,
-   "cats": [
-    "GAME_SIMULATION"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 24
-  },
-  {
-   "appId": "com.gameloft.android.ANMP.GloftDYHM",
-   "title": "Disney Magic Kingdoms",
-   "developer": "Gameloft SE",
-   "score": 4.45,
-   "free": null,
-   "gross": 19,
-   "cats": [
-    "GAME_SIMULATION"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 24
-  },
-  {
-   "appId": "com.unicostudio.braintestlegacy",
-   "title": "Brain Test All-Star: IQ Boost",
-   "developer": "Unico Studio",
-   "score": 4.75,
-   "free": 19,
-   "gross": 25,
    "cats": [
     "GAME_TRIVIA"
    ],
@@ -2790,7 +2982,7 @@
    "appId": "com.oakever.sortparade",
    "title": "Sort Streak: Color Puzzle",
    "developer": "Oakever Games",
-   "score": 4.73,
+   "score": 4.76,
    "free": 8,
    "gross": null,
    "cats": [
@@ -2803,58 +2995,26 @@
    "score_rank": 23
   },
   {
-   "appId": "com.mobsmile.coinbounce",
-   "title": "Coin Bounce",
-   "developer": "Mobsmile Games AS",
-   "score": 3.89,
-   "free": 8,
+   "appId": "com.gl.bus",
+   "title": "Block Bus!",
+   "developer": "Loyalty Gaming",
+   "score": 4.49,
+   "free": 14,
    "gross": null,
    "cats": [
     "GAME_CASUAL"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 6,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 23
   },
   {
-   "appId": "com.peoplefun.wordsearch",
-   "title": "Wordscapes Search: Word Games",
-   "developer": "PeopleFun",
-   "score": 4.7,
-   "free": 8,
-   "gross": null,
-   "cats": [
-    "GAME_WORD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 23
-  },
-  {
-   "appId": "com.gamemaker.rummy.free.puzzle",
-   "title": "Rummy 500",
-   "developer": "Game Maker Ltd.",
-   "score": 4.59,
-   "free": 8,
-   "gross": null,
-   "cats": [
-    "GAME_CARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 23
-  },
-  {
-   "appId": "com.heartsnet.clickwood.gp",
-   "title": "Click Wood",
-   "developer": "Heartsnet",
-   "score": 4.59,
+   "appId": "com.tfgco.apps.coloring.free.color.by.number",
+   "title": "Color by Number：Coloring Games",
+   "developer": "Wildlife Studios",
+   "score": 4.67,
    "free": 8,
    "gross": null,
    "cats": [
@@ -2867,9 +3027,9 @@
    "score_rank": 23
   },
   {
-   "appId": "com.diamond.city.house.best.building.craft.vip",
-   "title": "Block World - Craft City",
-   "developer": "Patane Global",
+   "appId": "com.cscmobi.livestream.idle.clicker",
+   "title": "Viral Streamer: Idle Clicker",
+   "developer": "CSCMobi Studios",
    "score": 4.53,
    "free": 8,
    "gross": null,
@@ -2883,32 +3043,48 @@
    "score_rank": 23
   },
   {
-   "appId": "com.mnogoteams.guesstheanswer",
-   "title": "Guess The Answer: Trivia Game",
-   "developer": "Quiz & Trivia Games by Mno Go Apps",
-   "score": 4.84,
-   "free": 8,
-   "gross": null,
+   "appId": "com.bandainamcoent.gget_WW",
+   "title": "SD Gundam G Generation ETERNAL",
+   "developer": "Bandai Namco Entertainment Inc.",
+   "score": 4.39,
+   "free": null,
+   "gross": 27,
    "cats": [
-    "GAME_TRIVIA"
+    "GAME_SIMULATION"
    ],
-   "newEntry": false,
+   "newEntry": true,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 23
   },
   {
-   "appId": "com.blockblast.lite",
-   "title": "Block Blast Lite",
-   "developer": "HungryStudio",
-   "score": 4.89,
-   "free": 9,
+   "appId": "com.etermax.trivia.preguntados2",
+   "title": "Trivia Crack Retro Quiz",
+   "developer": "etermax",
+   "score": 4.55,
+   "free": null,
+   "gross": 21,
+   "cats": [
+    "GAME_TRIVIA"
+   ],
+   "newEntry": false,
+   "bestRise": 3,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 23
+  },
+  {
+   "appId": "com.puzzlegames.puzzlebrickslegend",
+   "title": "Color Block: Combo Blast",
+   "developer": "Ivy",
+   "score": 4.32,
+   "free": 24,
    "gross": null,
    "cats": [
     "GAME_PUZZLE"
    ],
-   "newEntry": false,
+   "newEntry": true,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
@@ -2934,13 +3110,29 @@
    "appId": "busflow.traffic.puzzle",
    "title": "Bus Crowd - Traffic Jam",
    "developer": "Hyper Surfer Games",
-   "score": 3.94,
+   "score": 4.29,
    "free": 9,
    "gross": null,
    "cats": [
     "GAME_CASUAL"
    ],
    "newEntry": false,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 22
+  },
+  {
+   "appId": "com.crazylabs.fashion.squad",
+   "title": "Glow Fashion Idol",
+   "developer": "CrazyLabs LTD",
+   "score": 4.72,
+   "free": 30,
+   "gross": 28,
+   "cats": [
+    "GAME_CASUAL"
+   ],
+   "newEntry": true,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
@@ -2963,26 +3155,10 @@
    "score_rank": 22
   },
   {
-   "appId": "com.peoplefun.wordsolitaire",
-   "title": "Wordscapes Solitaire",
-   "developer": "PeopleFun",
-   "score": 4.67,
-   "free": 29,
-   "gross": 21,
-   "cats": [
-    "GAME_WORD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 22
-  },
-  {
    "appId": "com.bigcake.android.spadesclassic",
    "title": "Spades - Classic Card Games",
    "developer": "Big Cake",
-   "score": 4.79,
+   "score": 4.78,
    "free": 9,
    "gross": null,
    "cats": [
@@ -3011,12 +3187,12 @@
    "score_rank": 22
   },
   {
-   "appId": "com.gamovation.chessclubpilot",
-   "title": "Chess - Offline Board Game",
-   "developer": "GamoVation",
-   "score": 4.84,
-   "free": 9,
-   "gross": null,
+   "appId": "com.superking.parchisi.star",
+   "title": "Parchisi STAR Online",
+   "developer": "Gameberry Labs",
+   "score": 4.68,
+   "free": null,
+   "gross": 20,
    "cats": [
     "GAME_BOARD"
    ],
@@ -3043,17 +3219,33 @@
    "score_rank": 22
   },
   {
-   "appId": "fi.reworks.redecor",
-   "title": "Redecor - Home Design Game",
-   "developer": "Reworks Ltd.",
-   "score": 4.52,
+   "appId": "com.gameoverflow.seaplayground",
+   "title": "Sea Playground: Ship Sandbox",
+   "developer": "Freeplay Inc",
+   "score": 4.21,
+   "free": 24,
+   "gross": null,
+   "cats": [
+    "GAME_SIMULATION"
+   ],
+   "newEntry": true,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 22
+  },
+  {
+   "appId": "com.ludia.jurassicworld",
+   "title": "Jurassic World™: The Game",
+   "developer": "Ludia Inc",
+   "score": 4.34,
    "free": null,
-   "gross": 20,
+   "gross": 21,
    "cats": [
     "GAME_SIMULATION"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 2,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 22
@@ -3062,7 +3254,7 @@
    "appId": "com.gl.unbolt",
    "title": "Bolt Out - Puzzle Game",
    "developer": "Loyalty Gaming",
-   "score": 4.58,
+   "score": 4.56,
    "free": 10,
    "gross": null,
    "cats": [
@@ -3075,16 +3267,96 @@
    "score_rank": 21
   },
   {
-   "appId": "com.arcshoot.arena",
-   "title": "Archery Duel 3D",
-   "developer": "GreenTTeaGame",
-   "score": 2.42,
+   "appId": "com.nebula.ropesort",
+   "title": "Rope Sort!",
+   "developer": "Nebula  Studio",
+   "score": 4.93,
+   "free": 11,
+   "gross": null,
+   "cats": [
+    "GAME_PUZZLE"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 21
+  },
+  {
+   "appId": "com.smallgiantgames.empires",
+   "title": "Empires & Puzzles: Match-3 RPG",
+   "developer": "Small Giant Games",
+   "score": 4.46,
+   "free": null,
+   "gross": 21,
+   "cats": [
+    "GAME_PUZZLE"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 21
+  },
+  {
+   "appId": "com.mobsmile.coinbounce",
+   "title": "Coin Bounce",
+   "developer": "Mobsmile Games AS",
+   "score": 4.15,
    "free": 10,
    "gross": null,
    "cats": [
     "GAME_CASUAL"
    ],
    "newEntry": false,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 21
+  },
+  {
+   "appId": "com.uc.gym.clicker",
+   "title": "Gym Idle Clicker: Fitness Hero",
+   "developer": "Unicorn Studio Official",
+   "score": 4.67,
+   "free": 11,
+   "gross": null,
+   "cats": [
+    "GAME_CASUAL"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 21
+  },
+  {
+   "appId": "com.gl.mahjong",
+   "title": "Mahjong Smart",
+   "developer": "Loyalty Gaming",
+   "score": 4.51,
+   "free": 20,
+   "gross": null,
+   "cats": [
+    "GAME_CASUAL"
+   ],
+   "newEntry": false,
+   "bestRise": 10,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 21
+  },
+  {
+   "appId": "com.studioadept.engine",
+   "title": "Idle Engine Simulator",
+   "developer": "Mamboo Entertainment",
+   "score": 4.43,
+   "free": 25,
+   "gross": null,
+   "cats": [
+    "GAME_CASUAL"
+   ],
+   "newEntry": true,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
@@ -3110,7 +3382,7 @@
    "appId": "com.fiogonia.rummy500",
    "title": "Rummy 500 - Card Game",
    "developer": "FIOGONIA LIMITED",
-   "score": 4.63,
+   "score": 4.62,
    "free": 10,
    "gross": null,
    "cats": [
@@ -3123,10 +3395,58 @@
    "score_rank": 21
   },
   {
-   "appId": "com.metax.obby.escape.run",
-   "title": "Keyboard Escape: +1 Speed ASMR",
-   "developer": "Goldoint",
-   "score": 3.23,
+   "appId": "com.inforcegames.blackdeck",
+   "title": "Black Deck - Card Battle CCG",
+   "developer": "SayGames Ltd",
+   "score": 4.3,
+   "free": null,
+   "gross": 21,
+   "cats": [
+    "GAME_CARD"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 21
+  },
+  {
+   "appId": "com.gamovation.chessclubpilot",
+   "title": "Chess - Offline Board Game",
+   "developer": "GamoVation",
+   "score": 4.84,
+   "free": 10,
+   "gross": null,
+   "cats": [
+    "GAME_BOARD"
+   ],
+   "newEntry": false,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 21
+  },
+  {
+   "appId": "air.com.beachbumgammon",
+   "title": "Backgammon - Lord of the Board",
+   "developer": "Beach Bum Ltd.",
+   "score": 4.23,
+   "free": null,
+   "gross": 21,
+   "cats": [
+    "GAME_BOARD"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 21
+  },
+  {
+   "appId": "com.studio6.toystore",
+   "title": "Tidy Everything!",
+   "developer": "SayGames Ltd",
+   "score": 3.18,
    "free": 10,
    "gross": null,
    "cats": [
@@ -3137,70 +3457,6 @@
    "researched": null,
    "usedForIdea": false,
    "score_rank": 21
-  },
-  {
-   "appId": "com.ycgame.onelinegame",
-   "title": "One Line Games: Puzzle Fun",
-   "developer": "JoyPop Games",
-   "score": 3.86,
-   "free": 10,
-   "gross": null,
-   "cats": [
-    "GAME_TRIVIA"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 21
-  },
-  {
-   "appId": "com.oakever.arrows",
-   "title": "Amaze GO!™",
-   "developer": "Oakever Games",
-   "score": 4.85,
-   "free": 11,
-   "gross": null,
-   "cats": [
-    "GAME_PUZZLE"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 20
-  },
-  {
-   "appId": "com.everywear.game5",
-   "title": "Merge Mansion: Puzzles & Story",
-   "developer": "Metacore Games Oy",
-   "score": 4.47,
-   "free": null,
-   "gross": 21,
-   "cats": [
-    "GAME_PUZZLE"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 20
-  },
-  {
-   "appId": "com.RC67.surprise.dumpling.ASMR.box",
-   "title": "Surprise Dumpling: ASMR Box",
-   "developer": "NAMIGAME",
-   "score": 4.69,
-   "free": 11,
-   "gross": null,
-   "cats": [
-    "GAME_CASUAL"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 20
   },
   {
    "appId": "com.supercell.hayday",
@@ -3219,10 +3475,10 @@
    "score_rank": 20
   },
   {
-   "appId": "com.vottzapps.wordle",
-   "title": "Wordle!",
-   "developer": "Lion Studios Plus",
-   "score": 4.48,
+   "appId": "com.peoplefun.wordsearch",
+   "title": "Wordscapes Search: Word Games",
+   "developer": "PeopleFun",
+   "score": 4.7,
    "free": 11,
    "gross": null,
    "cats": [
@@ -3235,14 +3491,14 @@
    "score_rank": 20
   },
   {
-   "appId": "com.dna.solitaireapp",
-   "title": "Solitaire - Classic Card Game",
-   "developer": "DNA Mobile Group",
-   "score": 4.81,
-   "free": 11,
-   "gross": null,
+   "appId": "com.peoplefun.wordsolitaire",
+   "title": "Wordscapes Solitaire",
+   "developer": "PeopleFun",
+   "score": 4.67,
+   "free": 29,
+   "gross": 22,
    "cats": [
-    "GAME_CARD"
+    "GAME_WORD"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -3251,14 +3507,14 @@
    "score_rank": 20
   },
   {
-   "appId": "com.forevernine.texaspoker.android",
-   "title": "Holdem or Foldem - Texas Poker",
-   "developer": "HK DENGSHEN TECHNOLOGY CO., LIMITED",
-   "score": 4.46,
+   "appId": "com.platinumplayer.word.addict",
+   "title": "Word Collect - Word Games Fun",
+   "developer": "Super Free",
+   "score": 4.68,
    "free": null,
    "gross": 21,
    "cats": [
-    "GAME_CARD"
+    "GAME_WORD"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -3267,90 +3523,138 @@
    "score_rank": 20
   },
   {
-   "appId": "com.greatplay.bingocash",
-   "title": "Fast Cash Bingo Dice",
-   "developer": "GreatPlay App",
-   "score": 4.91,
-   "free": 11,
+   "appId": "com.zappchess.app.free",
+   "title": "Zapp Chess: Online Chess Game",
+   "developer": "DAB Games",
+   "score": 4.39,
+   "free": 26,
    "gross": null,
    "cats": [
     "GAME_BOARD"
    ],
-   "newEntry": false,
+   "newEntry": true,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 20
   },
   {
-   "appId": "com.yalla.yallagames",
-   "title": "Yalla Ludo - Ludo&Jackaroo",
-   "developer": "Aviva Sun",
-   "score": 4.27,
-   "free": null,
-   "gross": 21,
-   "cats": [
-    "GAME_BOARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 20
-  },
-  {
-   "appId": "com.tensquaregames.letsfish2",
-   "title": "Fishing Clash: Sport Simulator",
-   "developer": "Ten Square Games",
-   "score": 4.74,
-   "free": null,
-   "gross": 21,
+   "appId": "io.supercent.pizzaidle",
+   "title": "Pizza Ready!",
+   "developer": "Supercent, Inc.",
+   "score": 4.44,
+   "free": 13,
+   "gross": null,
    "cats": [
     "GAME_SIMULATION"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 2,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 20
   },
   {
-   "appId": "com.nebula.ropesort",
-   "title": "Rope Sort!",
-   "developer": "Nebula  Studio",
-   "score": 4.93,
-   "free": 12,
+   "appId": "games.redbricks.businessworld",
+   "title": "Business World: Poor to Rich",
+   "developer": "Appodeal Accelerator Labs",
+   "score": 4.46,
+   "free": 14,
    "gross": null,
    "cats": [
-    "GAME_PUZZLE"
+    "GAME_SIMULATION"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 3,
    "researched": null,
    "usedForIdea": false,
-   "score_rank": 19
+   "score_rank": 20
   },
   {
-   "appId": "com.uc.gym.clicker",
-   "title": "Gym Idle Clicker: Fitness Hero",
-   "developer": "Unicorn Studio Official",
-   "score": 4.69,
-   "free": 12,
+   "appId": "com.mytona.cookingdiary.android",
+   "title": "Cooking Diary® Restaurant Game",
+   "developer": "Mytona",
+   "score": 4.58,
+   "free": null,
+   "gross": 22,
+   "cats": [
+    "GAME_SIMULATION"
+   ],
+   "newEntry": false,
+   "bestRise": 2,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 20
+  },
+  {
+   "appId": "com.scopely.gardenjoy",
+   "title": "Flourish: Design Dream Spaces",
+   "developer": "Burlingame Studios",
+   "score": 4.65,
+   "free": null,
+   "gross": 23,
+   "cats": [
+    "GAME_SIMULATION"
+   ],
+   "newEntry": false,
+   "bestRise": 4,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 20
+  },
+  {
+   "appId": "cube.clear.burst.spin.sweep.puzzle.rotate",
+   "title": "Twist Colors: Cubescape",
+   "developer": "Nova Games Technology Limited",
+   "score": 4.85,
+   "free": 15,
    "gross": null,
    "cats": [
     "GAME_CASUAL"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 3,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 19
   },
   {
-   "appId": "com.tripledot.cardassociation",
-   "title": "You Know: Associations",
+   "appId": "com.tripledot.angrysmash",
+   "title": "Angry Smash",
    "developer": "Tripledot Studios Limited",
-   "score": 4.72,
+   "score": 4.92,
+   "free": 19,
+   "gross": null,
+   "cats": [
+    "GAME_CASUAL"
+   ],
+   "newEntry": false,
+   "bestRise": 7,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 19
+  },
+  {
+   "appId": "com.easybrain.crossword.puzzles",
+   "title": "Crossword Master - Word Puzzle",
+   "developer": "Easybrain",
+   "score": 4.8,
+   "free": 13,
+   "gross": null,
+   "cats": [
+    "GAME_WORD"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 19
+  },
+  {
+   "appId": "com.dna.solitaireapp",
+   "title": "Solitaire - Classic Card Game",
+   "developer": "DNA Mobile Group",
+   "score": 4.81,
    "free": 12,
    "gross": null,
    "cats": [
@@ -3363,14 +3667,30 @@
    "score_rank": 19
   },
   {
-   "appId": "com.NewFolderGames.IAmCat",
-   "title": "I Am Cat",
-   "developer": "Estoty",
-   "score": 4.53,
+   "appId": "com.youdagames.gop3multiplayer",
+   "title": "Governor of Poker Card Games",
+   "developer": "Playtika",
+   "score": 4.28,
+   "free": null,
+   "gross": 22,
+   "cats": [
+    "GAME_CARD"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 19
+  },
+  {
+   "appId": "com.greatplay.bingocash",
+   "title": "Fast Cash Bingo Dice",
+   "developer": "GreatPlay App",
+   "score": 4.9,
    "free": 12,
    "gross": null,
    "cats": [
-    "GAME_SIMULATION"
+    "GAME_BOARD"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -3379,26 +3699,26 @@
    "score_rank": 19
   },
   {
-   "appId": "com.brain.crazy.joygame",
-   "title": "Brain Puzzle 3: Crazy Mind",
-   "developer": "JoyGame Studio",
-   "score": 4.72,
-   "free": 13,
+   "appId": "com.metax.party.craft.city.school.world.building.simulator",
+   "title": "City Craft: Party World",
+   "developer": "Metagame.Ltd",
+   "score": 3.43,
+   "free": 27,
    "gross": null,
    "cats": [
-    "GAME_PUZZLE"
+    "GAME_SIMULATION"
    ],
-   "newEntry": false,
+   "newEntry": true,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
-   "score_rank": 18
+   "score_rank": 19
   },
   {
-   "appId": "com.smallgiantgames.empires",
-   "title": "Empires & Puzzles: Match-3 RPG",
-   "developer": "Small Giant Games",
-   "score": 4.46,
+   "appId": "com.everywear.game5",
+   "title": "Merge Mansion: Puzzles & Story",
+   "developer": "Metacore Games Oy",
+   "score": 4.47,
    "free": null,
    "gross": 22,
    "cats": [
@@ -3411,16 +3731,16 @@
    "score_rank": 18
   },
   {
-   "appId": "io.voodoo.holeio",
-   "title": "Hole.io - Original Hole Game",
-   "developer": "VOODOO",
-   "score": 3.21,
-   "free": 13,
+   "appId": "com.yg.mini.games",
+   "title": "Relax Mini Games",
+   "developer": "SUPERIOR  STUDIO",
+   "score": 4.72,
+   "free": 28,
    "gross": null,
    "cats": [
     "GAME_CASUAL"
    ],
-   "newEntry": false,
+   "newEntry": true,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
@@ -3443,6 +3763,38 @@
    "score_rank": 18
   },
   {
+   "appId": "com.crypt.gram.puzz",
+   "title": "Cryptogram: Word Logic Puzzles",
+   "developer": "Gismart",
+   "score": 4.6,
+   "free": 17,
+   "gross": null,
+   "cats": [
+    "GAME_WORD"
+   ],
+   "newEntry": false,
+   "bestRise": 4,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 18
+  },
+  {
+   "appId": "com.ganko.wordeex",
+   "title": "Wordeex",
+   "developer": "Ganko",
+   "score": 4.29,
+   "free": 28,
+   "gross": null,
+   "cats": [
+    "GAME_WORD"
+   ],
+   "newEntry": true,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 18
+  },
+  {
    "appId": "com.playvalve.solitaire",
    "title": "Solitaire - Classic Card Game",
    "developer": "Bluetile",
@@ -3459,16 +3811,16 @@
    "score_rank": 18
   },
   {
-   "appId": "com.inforcegames.blackdeck",
-   "title": "Black Deck - Card Battle CCG",
-   "developer": "SayGames Ltd",
-   "score": 4.3,
-   "free": null,
-   "gross": 22,
+   "appId": "rummy500.free.online.offline.classic.card.game",
+   "title": "Rummy 500: Classic Card Game",
+   "developer": "Topy Games",
+   "score": 4.86,
+   "free": 28,
+   "gross": null,
    "cats": [
     "GAME_CARD"
    ],
-   "newEntry": false,
+   "newEntry": true,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
@@ -3478,7 +3830,7 @@
    "appId": "com.bigcake.android.chess.offline",
    "title": "Chess",
    "developer": "Big Cake",
-   "score": 4.13,
+   "score": 4.11,
    "free": 13,
    "gross": null,
    "cats": [
@@ -3491,10 +3843,10 @@
    "score_rank": 18
   },
   {
-   "appId": "air.com.beachbumgammon",
-   "title": "Backgammon - Lord of the Board",
-   "developer": "Beach Bum Ltd.",
-   "score": 4.23,
+   "appId": "com.yalla.yallagames",
+   "title": "Yalla Ludo - Ludo&Jackaroo",
+   "developer": "Aviva Sun",
+   "score": 4.27,
    "free": null,
    "gross": 22,
    "cats": [
@@ -3507,46 +3859,14 @@
    "score_rank": 18
   },
   {
-   "appId": "gg.sunday.dog.escape.puzzle",
-   "title": "Dog Escape: Puppy Pet Games",
-   "developer": "Sunday.gg",
-   "score": 4.39,
-   "free": 13,
-   "gross": null,
-   "cats": [
-    "GAME_SIMULATION"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 18
-  },
-  {
-   "appId": "com.supermarkettycoon.idle",
-   "title": "Supermarket Tycoon Empire",
-   "developer": "Sopot Studios",
-   "score": 4.65,
-   "free": null,
-   "gross": 22,
-   "cats": [
-    "GAME_SIMULATION"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 18
-  },
-  {
-   "appId": "com.easybrain.crossword.puzzles",
-   "title": "Crossword Master - Word Puzzle",
-   "developer": "Easybrain",
-   "score": 4.8,
+   "appId": "com.oakever.arrows",
+   "title": "Amaze GO!™",
+   "developer": "Oakever Games",
+   "score": 4.85,
    "free": 14,
    "gross": null,
    "cats": [
-    "GAME_WORD"
+    "GAME_PUZZLE"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -3555,10 +3875,58 @@
    "score_rank": 17
   },
   {
-   "appId": "com.mobilityware.Rummy",
-   "title": "Rummy - Classic Card Game",
-   "developer": "MobilityWare",
-   "score": 4.67,
+   "appId": "com.nebula.arrows",
+   "title": "GOGO! Blast",
+   "developer": "Nebula  Studio",
+   "score": 4.89,
+   "free": 29,
+   "gross": null,
+   "cats": [
+    "GAME_PUZZLE"
+   ],
+   "newEntry": true,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 17
+  },
+  {
+   "appId": "com.gimica.treasuremaster",
+   "title": "Treasure Master",
+   "developer": "Gimica GmbH",
+   "score": 4.49,
+   "free": 21,
+   "gross": null,
+   "cats": [
+    "GAME_CASUAL"
+   ],
+   "newEntry": false,
+   "bestRise": 7,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 17
+  },
+  {
+   "appId": "com.outfit7.mytalkingtom2",
+   "title": "My Talking Tom 2: Pet Game",
+   "developer": "Outfit7 Limited",
+   "score": 4.28,
+   "free": 29,
+   "gross": null,
+   "cats": [
+    "GAME_CASUAL"
+   ],
+   "newEntry": true,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 17
+  },
+  {
+   "appId": "com.tripledot.cardassociation",
+   "title": "You Know: Associations",
+   "developer": "Tripledot Studios Limited",
+   "score": 4.7,
    "free": 14,
    "gross": null,
    "cats": [
@@ -3571,33 +3939,33 @@
    "score_rank": 17
   },
   {
-   "appId": "com.funcraft.diceyatzy",
-   "title": "Dice Yatzy - Classic Fun Game",
-   "developer": "FunCraft Games",
-   "score": 4.82,
-   "free": 18,
-   "gross": 29,
+   "appId": "com.twh011.market.simulator.manager",
+   "title": "Superstore Story 3D",
+   "developer": "Pusilung",
+   "score": 4.48,
+   "free": 29,
+   "gross": null,
    "cats": [
-    "GAME_BOARD"
+    "GAME_SIMULATION"
    ],
-   "newEntry": false,
+   "newEntry": true,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 17
   },
   {
-   "appId": "ore.crusher",
-   "title": "Idle Mining & Refining",
-   "developer": "EMKR Games",
-   "score": 4.75,
-   "free": 14,
-   "gross": null,
+   "appId": "com.newmoonproduction.bigfarmhomestead",
+   "title": "Big Farm Homestead",
+   "developer": "Goodgame Studios",
+   "score": 4.59,
+   "free": null,
+   "gross": 25,
    "cats": [
     "GAME_SIMULATION"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 5,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 17
@@ -3635,17 +4003,17 @@
    "score_rank": 16
   },
   {
-   "appId": "com.justdesserts.global",
-   "title": "Just Desserts: Revenge & Merge",
-   "developer": "Century Games Innovation Pte. Ltd.",
-   "score": 4.79,
-   "free": null,
-   "gross": 23,
+   "appId": "com.loop.packedloop",
+   "title": "Parking Loop",
+   "developer": "Loop Games A.S.",
+   "score": 4.44,
+   "free": 16,
+   "gross": null,
    "cats": [
-    "GAME_CASUAL"
+    "GAME_PUZZLE"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 16
@@ -3667,8 +4035,24 @@
    "score_rank": 16
   },
   {
-   "appId": "com.mobilityware.Spades",
-   "title": "Spades: Classic Card Games",
+   "appId": "com.greatplay.whamzeecash",
+   "title": "Fast Cash Word Yatzy",
+   "developer": "GreatPlay App",
+   "score": 4.9,
+   "free": 30,
+   "gross": null,
+   "cats": [
+    "GAME_WORD"
+   ],
+   "newEntry": true,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 16
+  },
+  {
+   "appId": "com.mobilityware.Rummy",
+   "title": "Rummy - Classic Card Game",
    "developer": "MobilityWare",
    "score": 4.68,
    "free": 15,
@@ -3683,10 +4067,10 @@
    "score_rank": 16
   },
   {
-   "appId": "com.youdagames.gop3multiplayer",
-   "title": "Governor of Poker Card Games",
-   "developer": "Playtika",
-   "score": 4.28,
+   "appId": "com.forevernine.texaspoker.android",
+   "title": "Holdem or Foldem - Texas Poker",
+   "developer": "HK DENGSHEN TECHNOLOGY CO., LIMITED",
+   "score": 4.46,
    "free": null,
    "gross": 23,
    "cats": [
@@ -3699,12 +4083,12 @@
    "score_rank": 16
   },
   {
-   "appId": "com.bigcake.android.mahjongmatch",
-   "title": "Daily Mahjong Match",
-   "developer": "Big Cake",
-   "score": 4.91,
-   "free": 15,
-   "gross": null,
+   "appId": "com.funcraft.diceyatzy",
+   "title": "Dice Yatzy - Classic Fun Game",
+   "developer": "FunCraft Games",
+   "score": 4.82,
+   "free": 19,
+   "gross": 29,
    "cats": [
     "GAME_BOARD"
    ],
@@ -3731,10 +4115,10 @@
    "score_rank": 16
   },
   {
-   "appId": "io.supercent.pizzaidle",
-   "title": "Pizza Ready!",
-   "developer": "Supercent, Inc.",
-   "score": 4.44,
+   "appId": "ore.crusher",
+   "title": "Idle Mining & Refining",
+   "developer": "EMKR Games",
+   "score": 4.71,
    "free": 15,
    "gross": null,
    "cats": [
@@ -3747,14 +4131,14 @@
    "score_rank": 16
   },
   {
-   "appId": "com.ludia.jurassicworld",
-   "title": "Jurassic World™: The Game",
-   "developer": "Ludia Inc",
-   "score": 4.34,
-   "free": null,
-   "gross": 23,
+   "appId": "com.ycgame.onelinegame",
+   "title": "One Line Games: Puzzle Fun",
+   "developer": "JoyPop Games",
+   "score": 3.86,
+   "free": 15,
+   "gross": null,
    "cats": [
-    "GAME_SIMULATION"
+    "GAME_TRIVIA"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -3763,42 +4147,26 @@
    "score_rank": 16
   },
   {
-   "appId": "pampam.ibf2",
-   "title": "Bottle Flip 3D — Tap & Jump!",
-   "developer": "Azur Interactive Games Limited",
-   "score": 4.2,
-   "free": 16,
+   "appId": "com.mnogoteams.magicquiz",
+   "title": "Magic Quiz: Trivia Games",
+   "developer": "Quiz & Trivia Games by Mno Go Apps",
+   "score": 4.81,
+   "free": 30,
    "gross": null,
    "cats": [
-    "GAME_CASUAL"
+    "GAME_TRIVIA"
    ],
-   "newEntry": false,
+   "newEntry": true,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
-   "score_rank": 15
+   "score_rank": 16
   },
   {
-   "appId": "com.openmygame.games.android.fillwordsoffline",
-   "title": "Fillwords: Word Search Puzzles",
-   "developer": "Malpa Games",
-   "score": 4.9,
-   "free": 16,
-   "gross": null,
-   "cats": [
-    "GAME_WORD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 15
-  },
-  {
-   "appId": "com.tiltrips.app",
-   "title": "Tilt Rips - TCG Pack Opening",
-   "developer": "MT Sports",
-   "score": 4.36,
+   "appId": "com.mobilityware.Spades",
+   "title": "Spades: Classic Card Games",
+   "developer": "MobilityWare",
+   "score": 4.68,
    "free": 16,
    "gross": null,
    "cats": [
@@ -3811,10 +4179,26 @@
    "score_rank": 15
   },
   {
-   "appId": "st.ows.chess",
-   "title": "Chess Master: Board Game",
-   "developer": "One Way Street Entertainment",
-   "score": 4.83,
+   "appId": "at.ner.SolitaireKlondike",
+   "title": "Solitaire - Classic Card Games",
+   "developer": "nerByte GmbH",
+   "score": 4.52,
+   "free": 21,
+   "gross": null,
+   "cats": [
+    "GAME_CARD"
+   ],
+   "newEntry": false,
+   "bestRise": 5,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 15
+  },
+  {
+   "appId": "com.bigcake.android.mahjongmatch",
+   "title": "Daily Mahjong Match",
+   "developer": "Big Cake",
+   "score": 4.91,
    "free": 16,
    "gross": null,
    "cats": [
@@ -3827,26 +4211,26 @@
    "score_rank": 15
   },
   {
-   "appId": "dress.up.fashion.makeup.style.makeover.girl.rebel.queen",
-   "title": "Rebel Glam: Dress Up Games",
-   "developer": "31 Dress up Games",
-   "score": 4.33,
-   "free": 16,
+   "appId": "com.playvalve.mahjong",
+   "title": "Mahjong Voyage: Tile Matching",
+   "developer": "Bluetile",
+   "score": 4.78,
+   "free": 18,
    "gross": null,
    "cats": [
-    "GAME_SIMULATION"
+    "GAME_BOARD"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 2,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 15
   },
   {
-   "appId": "com.loop.packedloop",
-   "title": "Parking Loop",
-   "developer": "Loop Games A.S.",
-   "score": 4.36,
+   "appId": "com.brain.crazy.joygame",
+   "title": "Brain Puzzle 3: Crazy Mind",
+   "developer": "JoyGame Studio",
+   "score": 4.72,
    "free": 17,
    "gross": null,
    "cats": [
@@ -3854,6 +4238,22 @@
    ],
    "newEntry": false,
    "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 14
+  },
+  {
+   "appId": "com.gl.crowncrush",
+   "title": "Crown Crush",
+   "developer": "Loyalty Gaming",
+   "score": 4.62,
+   "free": 22,
+   "gross": null,
+   "cats": [
+    "GAME_PUZZLE"
+   ],
+   "newEntry": false,
+   "bestRise": 5,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 14
@@ -3867,6 +4267,22 @@
    "gross": 24,
    "cats": [
     "GAME_PUZZLE"
+   ],
+   "newEntry": false,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 14
+  },
+  {
+   "appId": "com.justdesserts.global",
+   "title": "Just Desserts: Revenge & Merge",
+   "developer": "Century Games Innovation Pte. Ltd.",
+   "score": 4.77,
+   "free": null,
+   "gross": 24,
+   "cats": [
+    "GAME_CASUAL"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -3923,10 +4339,26 @@
    "score_rank": 14
   },
   {
-   "appId": "games.redbricks.businessworld",
-   "title": "Business World: Poor to Rich",
-   "developer": "Appodeal Accelerator Labs",
-   "score": 4.43,
+   "appId": "st.ows.chess",
+   "title": "Chess Master: Board Game",
+   "developer": "One Way Street Entertainment",
+   "score": 4.82,
+   "free": 17,
+   "gross": null,
+   "cats": [
+    "GAME_BOARD"
+   ],
+   "newEntry": false,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 14
+  },
+  {
+   "appId": "dress.up.fashion.makeup.style.makeover.girl.rebel.queen",
+   "title": "Rebel Glam: Dress Up Games",
+   "developer": "31 Dress up Games",
+   "score": 4.38,
    "free": 17,
    "gross": null,
    "cats": [
@@ -3939,10 +4371,10 @@
    "score_rank": 14
   },
   {
-   "appId": "com.mytona.cookingdiary.android",
-   "title": "Cooking Diary® Restaurant Game",
-   "developer": "Mytona",
-   "score": 4.58,
+   "appId": "com.computerlunch.evolution",
+   "title": "Cell to Singularity: Evolution",
+   "developer": "ComputerLunch",
+   "score": 4.49,
    "free": null,
    "gross": 24,
    "cats": [
@@ -3955,90 +4387,58 @@
    "score_rank": 14
   },
   {
-   "appId": "typing.fast.texting.practice.keybord.type.games",
-   "title": "Type Sprint: Typing Games",
-   "developer": "Masterskaya DK",
-   "score": 4.48,
-   "free": 17,
-   "gross": null,
-   "cats": [
-    "GAME_TRIVIA"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 14
-  },
-  {
-   "appId": "com.etermax.trivia.preguntados2",
-   "title": "Trivia Crack Retro Quiz",
-   "developer": "etermax",
-   "score": 4.55,
+   "appId": "com.gtm.coupletruthordare",
+   "title": "Couple Games: Spicy Questions",
+   "developer": "Ultimate Party Apps",
+   "score": 4.52,
    "free": null,
-   "gross": 24,
+   "gross": 25,
    "cats": [
     "GAME_TRIVIA"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 2,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 14
   },
   {
-   "appId": "pixelora.flow.pixel.art.snake.puzzle.game",
-   "title": "Pixelora Flow",
-   "developer": "HappyTapLand",
-   "score": 4.91,
-   "free": 18,
+   "appId": "com.easybrain.arrow.puzzle.game",
+   "title": "Arrow Puzzle: Tap Puzzle Games",
+   "developer": "Easybrain",
+   "score": 4.84,
+   "free": 21,
    "gross": null,
    "cats": [
     "GAME_PUZZLE"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 3,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 13
   },
   {
-   "appId": "cube.clear.burst.spin.sweep.puzzle.rotate",
-   "title": "Twist Colors: Cubescape",
-   "developer": "Nova Games Technology Limited",
-   "score": 4.84,
-   "free": 18,
-   "gross": null,
+   "appId": "com.merge.game.foodstars",
+   "title": "Foodstars: Merge & Cook",
+   "developer": "Happibits Game",
+   "score": 4.44,
+   "free": null,
+   "gross": 25,
    "cats": [
-    "GAME_CASUAL"
+    "GAME_PUZZLE"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 13
   },
   {
-   "appId": "com.easybrain.word.puzzle.game",
-   "title": "Easy Words - Word Puzzle Games",
-   "developer": "Easybrain",
-   "score": 4.82,
-   "free": 18,
-   "gross": null,
-   "cats": [
-    "GAME_WORD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 13
-  },
-  {
-   "appId": "com.game.whatdoyoumeme",
-   "title": "Meme Challenge: Dank Memes",
-   "developer": "MagicLab",
-   "score": 4.52,
+   "appId": "com.tiltrips.app",
+   "title": "Tilt Rips - TCG Pack Opening",
+   "developer": "MT Sports",
+   "score": 4.33,
    "free": 18,
    "gross": null,
    "cats": [
@@ -4051,26 +4451,26 @@
    "score_rank": 13
   },
   {
-   "appId": "com.dramaton.slimepet",
-   "title": "Bruno – My Talking Slime Pet",
-   "developer": "Dramaton",
-   "score": 4.52,
-   "free": 18,
-   "gross": null,
+   "appId": "com.mattel163.skipbo",
+   "title": "Skip-Bo™: Solitaire Card Game",
+   "developer": "Mattel Game Studios HK Limited",
+   "score": 4.83,
+   "free": null,
+   "gross": 25,
    "cats": [
-    "GAME_SIMULATION"
+    "GAME_CARD"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 13
   },
   {
    "appId": "sort.casual.color.cat.puzzle.match",
-   "title": "Cutie Sort: Kitten Games",
+   "title": "Cutie Sort",
    "developer": "Ladaneta Games",
-   "score": 4.86,
+   "score": 4.87,
    "free": 19,
    "gross": null,
    "cats": [
@@ -4083,33 +4483,17 @@
    "score_rank": 12
   },
   {
-   "appId": "com.vigafun.funfinity.foodhunt",
-   "title": "Food Hunt: Pixel Puzzle",
-   "developer": "EVERFUN",
-   "score": 4.54,
-   "free": null,
-   "gross": 25,
+   "appId": "com.grandgames.catblockjam",
+   "title": "Block Out! - Color Sort Puzzle",
+   "developer": "Grand Games A.Ş.",
+   "score": 4.59,
+   "free": 20,
+   "gross": null,
    "cats": [
     "GAME_PUZZLE"
    ],
    "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 12
-  },
-  {
-   "appId": "com.liteorange.hometopia",
-   "title": "Frost Valley™: Merge & Story",
-   "developer": "Tuyoo Games (HK) Limited",
-   "score": 4.77,
-   "free": 19,
-   "gross": null,
-   "cats": [
-    "GAME_CASUAL"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 12
@@ -4131,10 +4515,10 @@
    "score_rank": 12
   },
   {
-   "appId": "com.mobilegame.wordsearch",
-   "title": "Word Search",
-   "developer": "Italic Games",
-   "score": 4.76,
+   "appId": "com.easybrain.word.puzzle.game",
+   "title": "Easy Words - Word Puzzle Games",
+   "developer": "Easybrain",
+   "score": 4.82,
    "free": 19,
    "gross": null,
    "cats": [
@@ -4163,49 +4547,49 @@
    "score_rank": 12
   },
   {
-   "appId": "solitaire.arcadegames.freecard.solitaireplus.epic.klodike",
-   "title": "Solitaire - Classic Card Game",
-   "developer": "Arcade Game Maker",
-   "score": 4.39,
-   "free": 19,
+   "appId": "com.playvalve.spades",
+   "title": "Spades Stars - Card Game",
+   "developer": "Bluetile",
+   "score": 4.75,
+   "free": 23,
    "gross": null,
    "cats": [
     "GAME_CARD"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 4,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 12
   },
   {
-   "appId": "com.bbumgames.spadesroyale",
-   "title": "Spades Royale",
-   "developer": "Beach Bum Ltd.",
-   "score": 4.66,
-   "free": null,
-   "gross": 25,
-   "cats": [
-    "GAME_CARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 12
-  },
-  {
-   "appId": "and.lihuhu.findmatch",
-   "title": "Triple Find - Match Triple 3D",
-   "developer": "LIHUHU PTE. LTD.",
-   "score": 4.78,
-   "free": 19,
+   "appId": "com.art.pixel.santa.christmas.games.paint.color.by.numbers",
+   "title": "Santa Color By Number Games",
+   "developer": "Art Coloring Group",
+   "score": 4.62,
+   "free": 20,
    "gross": null,
    "cats": [
     "GAME_BOARD"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 12
+  },
+  {
+   "appId": "in.playsimple.mahjongempire",
+   "title": "Mahjong Empire: Classic Match",
+   "developer": "PlaySimple Games",
+   "score": 4.95,
+   "free": 22,
+   "gross": null,
+   "cats": [
+    "GAME_BOARD"
+   ],
+   "newEntry": false,
+   "bestRise": 3,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 12
@@ -4227,46 +4611,14 @@
    "score_rank": 12
   },
   {
-   "appId": "com.fc.p.cp.jelly.mukbang.asmr.live.diy",
-   "title": "Jelly Master: Mukbang ASMR",
-   "developer": "FALCON GAME",
-   "score": 4.11,
-   "free": 19,
-   "gross": null,
-   "cats": [
-    "GAME_SIMULATION"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 12
-  },
-  {
-   "appId": "com.ea.games.simsfreeplay_na",
-   "title": "The Sims™ FreePlay",
-   "developer": "ELECTRONIC ARTS",
-   "score": 4.44,
-   "free": null,
-   "gross": 25,
-   "cats": [
-    "GAME_SIMULATION"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 12
-  },
-  {
-   "appId": "com.gl.bus",
-   "title": "Block Bus!",
-   "developer": "Loyalty Gaming",
-   "score": 4.48,
+   "appId": "com.mobilegame.wordsearch",
+   "title": "Word Search",
+   "developer": "Italic Games",
+   "score": 4.76,
    "free": 20,
    "gross": null,
    "cats": [
-    "GAME_CASUAL"
+    "GAME_WORD"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -4275,26 +4627,74 @@
    "score_rank": 11
   },
   {
-   "appId": "com.playvalve.mahjong",
-   "title": "Mahjong Voyage: Tile Matching",
-   "developer": "Bluetile",
+   "appId": "com.wordgame.words.connect",
+   "title": "Word Connect",
+   "developer": "ZenLife Games Ltd",
    "score": 4.78,
+   "free": null,
+   "gross": 26,
+   "cats": [
+    "GAME_WORD"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 11
+  },
+  {
+   "appId": "solitaire.arcadegames.freecard.solitaireplus.epic.klodike",
+   "title": "Solitaire - Classic Card Game",
+   "developer": "Arcade Game Maker",
+   "score": 4.39,
    "free": 20,
+   "gross": null,
+   "cats": [
+    "GAME_CARD"
+   ],
+   "newEntry": false,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 11
+  },
+  {
+   "appId": "com.solitaire.card",
+   "title": "Classic Solitaire",
+   "developer": "Big Cake Apps",
+   "score": 4.74,
+   "free": 24,
+   "gross": null,
+   "cats": [
+    "GAME_CARD"
+   ],
+   "newEntry": false,
+   "bestRise": 4,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 11
+  },
+  {
+   "appId": "com.bigcake.android.classicdominoes",
+   "title": "Classic Dominoes: Dominos Game",
+   "developer": "Big Cake",
+   "score": 4.86,
+   "free": 21,
    "gross": null,
    "cats": [
     "GAME_BOARD"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 11
   },
   {
-   "appId": "com.craft.city.blockbuilder.pro",
-   "title": "Craft Explore: Block Builder",
-   "developer": "LogicLabs Limited",
-   "score": 3.59,
+   "appId": "com.NewFolderGames.IAmCat",
+   "title": "I Am Cat",
+   "developer": "Estoty",
+   "score": 4.53,
    "free": 20,
    "gross": null,
    "cats": [
@@ -4307,46 +4707,14 @@
    "score_rank": 11
   },
   {
-   "appId": "com.grandgames.catblockjam",
-   "title": "Block Out! - Color Sort Puzzle",
-   "developer": "Grand Games A.Ş.",
-   "score": 4.58,
-   "free": 21,
-   "gross": null,
-   "cats": [
-    "GAME_PUZZLE"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 10
-  },
-  {
-   "appId": "com.merge.game.foodstars",
-   "title": "Foodstars: Merge & Cook",
-   "developer": "Happibits Game",
-   "score": 4.43,
+   "appId": "com.vigafun.funfinity.foodhunt",
+   "title": "Food Hunt: Pixel Puzzle",
+   "developer": "EVERFUN",
+   "score": 4.52,
    "free": null,
    "gross": 26,
    "cats": [
     "GAME_PUZZLE"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 10
-  },
-  {
-   "appId": "com.kkz.antistress.satisfying.relax.toys.games",
-   "title": "Satisfying Toys : Calm Games",
-   "developer": "Koko Zone",
-   "score": 4.83,
-   "free": 21,
-   "gross": null,
-   "cats": [
-    "GAME_CASUAL"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -4371,78 +4739,30 @@
    "score_rank": 10
   },
   {
-   "appId": "com.crypt.gram.puzz",
-   "title": "Cryptogram: Word Logic Puzzles",
-   "developer": "Gismart",
-   "score": 4.6,
-   "free": 21,
-   "gross": null,
-   "cats": [
-    "GAME_WORD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 10
-  },
-  {
-   "appId": "com.tripledot.cryptogram",
-   "title": "Cryptogram: Logic Puzzle Game",
-   "developer": "Tripledot Studios Limited",
-   "score": 4.85,
-   "free": null,
-   "gross": 26,
-   "cats": [
-    "GAME_WORD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 10
-  },
-  {
-   "appId": "com.pokemon.pokemontcgl",
-   "title": "Pokémon TCG Live",
-   "developer": "The Pokémon Company International",
-   "score": 4.46,
-   "free": 21,
+   "appId": "com.vitastudio.solitaire",
+   "title": "Vita Solitaire for Seniors",
+   "developer": "Vita Studio.",
+   "score": 4.86,
+   "free": 22,
    "gross": null,
    "cats": [
     "GAME_CARD"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 10
   },
   {
-   "appId": "com.mattel163.skipbo",
-   "title": "Skip-Bo™: Solitaire Card Game",
-   "developer": "Mattel Game Studios HK Limited",
-   "score": 4.83,
+   "appId": "com.bbumgames.spadesroyale",
+   "title": "Spades Royale",
+   "developer": "Beach Bum Ltd.",
+   "score": 4.66,
    "free": null,
    "gross": 26,
    "cats": [
     "GAME_CARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 10
-  },
-  {
-   "appId": "com.art.pixel.santa.christmas.games.paint.color.by.numbers",
-   "title": "Santa Color By Number Games",
-   "developer": "Art Coloring Group",
-   "score": 4.63,
-   "free": 21,
-   "gross": null,
-   "cats": [
-    "GAME_BOARD"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -4467,10 +4787,10 @@
    "score_rank": 10
   },
   {
-   "appId": "com.playground.sprunki.sandbox",
-   "title": "Spooky Playground: Sandbox",
-   "developer": "Logic Apz",
-   "score": 3.66,
+   "appId": "com.craft.city.blockbuilder.pro",
+   "title": "Craft Explore: Block Builder",
+   "developer": "LogicLabs Limited",
+   "score": 3.54,
    "free": 21,
    "gross": null,
    "cats": [
@@ -4483,10 +4803,10 @@
    "score_rank": 10
   },
   {
-   "appId": "com.nexwave.popepoch.android",
-   "title": "Pop Epoch: Civilization Tycoon",
-   "developer": "Nex Wave Games",
-   "score": 4.5,
+   "appId": "com.ea.games.simsfreeplay_na",
+   "title": "The Sims™ FreePlay",
+   "developer": "ELECTRONIC ARTS",
+   "score": 4.44,
    "free": null,
    "gross": 26,
    "cats": [
@@ -4499,10 +4819,10 @@
    "score_rank": 10
   },
   {
-   "appId": "com.lvsong.opening.theme",
-   "title": "Play N Guess: Earn Money",
-   "developer": "InventBros",
-   "score": 4.44,
+   "appId": "com.xmonetize.quizzland",
+   "title": "QuizzLand. Quiz & Trivia game",
+   "developer": "Quiz & Trivia Games by Mno Go Apps",
+   "score": 4.78,
    "free": 21,
    "gross": null,
    "cats": [
@@ -4515,110 +4835,94 @@
    "score_rank": 10
   },
   {
-   "appId": "sorting.games.goods.sort.triple.match3d.puzzle.stuff",
-   "title": "Goods Puzzle: 3D Sorting Games",
-   "developer": "Guru Puzzle Game",
-   "score": 4.91,
-   "free": 22,
-   "gross": null,
-   "cats": [
-    "GAME_PUZZLE"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 9
-  },
-  {
-   "appId": "solitaire.word.association.connections.puzzle",
-   "title": "Associate Words: Solitaire",
-   "developer": "Astrasen Global",
-   "score": 4.8,
-   "free": 22,
-   "gross": null,
-   "cats": [
-    "GAME_WORD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 9
-  },
-  {
-   "appId": "com.gimica.spidersolitaire",
-   "title": "Spider Solitaire",
-   "developer": "Gimica GmbH",
-   "score": 4.56,
-   "free": 22,
-   "gross": null,
-   "cats": [
-    "GAME_CARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 9
-  },
-  {
-   "appId": "com.bigcake.android.classicdominoes",
-   "title": "Classic Dominoes: Dominos Game",
-   "developer": "Big Cake",
-   "score": 4.86,
-   "free": 22,
-   "gross": null,
-   "cats": [
-    "GAME_BOARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 9
-  },
-  {
-   "appId": "com.wilds.craft.mysticland.explore",
-   "title": "Block Craft 3D: Realm Builder",
-   "developer": "Metagame.Ltd",
-   "score": 3.54,
-   "free": 22,
-   "gross": null,
-   "cats": [
-    "GAME_SIMULATION"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 9
-  },
-  {
-   "appId": "com.unicostudio.braintest5",
-   "title": "Brain Test 5: Hard Challenge",
-   "developer": "Unico Studio",
-   "score": 4.78,
-   "free": 22,
+   "appId": "com.niceteen.games.dtbam",
+   "title": "Deal To Be A Millionaire",
+   "developer": "Niceteen Games",
+   "score": 4.69,
+   "free": 23,
    "gross": null,
    "cats": [
     "GAME_TRIVIA"
    ],
    "newEntry": false,
+   "bestRise": 2,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 10
+  },
+  {
+   "appId": "com.moonactive.jellybusters",
+   "title": "Jelly Busters: Puzzle Game",
+   "developer": "Moon Active",
+   "score": 4.71,
+   "free": null,
+   "gross": 27,
+   "cats": [
+    "GAME_PUZZLE"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 9
+  },
+  {
+   "appId": "com.RC67.surprise.dumpling.ASMR.box",
+   "title": "Surprise Dumpling: ASMR Box",
+   "developer": "NAMIGAME",
+   "score": 4.68,
+   "free": 22,
+   "gross": null,
+   "cats": [
+    "GAME_CASUAL"
+   ],
+   "newEntry": false,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 9
   },
   {
-   "appId": "com.ig.screwdom",
-   "title": "Screwdom 3D",
-   "developer": "iKame Games - Zego Studio",
-   "score": 4.52,
+   "appId": "com.comunix.pokerface",
+   "title": "Poker Face: Texas Holdem Poker",
+   "developer": "Comunix Ltd",
+   "score": 4.47,
    "free": null,
    "gross": 27,
    "cats": [
-    "GAME_PUZZLE"
+    "GAME_CARD"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 9
+  },
+  {
+   "appId": "com.happeningnow.blebrity",
+   "title": "BLeBRiTY Charades",
+   "developer": "Visibility Media Inc",
+   "score": 4.06,
+   "free": null,
+   "gross": 27,
+   "cats": [
+    "GAME_TRIVIA"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 9
+  },
+  {
+   "appId": "io.voodoo.holeio",
+   "title": "Hole.io - Original Hole Game",
+   "developer": "VOODOO",
+   "score": 3.22,
+   "free": 23,
+   "gross": null,
+   "cats": [
+    "GAME_CASUAL"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -4630,7 +4934,7 @@
    "appId": "com.xman.na.gp",
    "title": "X-Clash",
    "developer": "Glaciers Game",
-   "score": 4.12,
+   "score": 4.13,
    "free": null,
    "gross": 27,
    "cats": [
@@ -4643,10 +4947,10 @@
    "score_rank": 8
   },
   {
-   "appId": "com.gimica.wordkitchen",
-   "title": "Word Kitchen",
-   "developer": "Gimica GmbH",
-   "score": 4.54,
+   "appId": "com.openmygame.games.android.fillwordsoffline",
+   "title": "Fillwords: Word Search Puzzles",
+   "developer": "Malpa Games",
+   "score": 4.9,
    "free": 23,
    "gross": null,
    "cats": [
@@ -4659,10 +4963,10 @@
    "score_rank": 8
   },
   {
-   "appId": "com.wordgame.words.connect",
-   "title": "Word Connect",
-   "developer": "ZenLife Games Ltd",
-   "score": 4.78,
+   "appId": "com.tripledot.cryptogram",
+   "title": "Cryptogram: Logic Puzzle Game",
+   "developer": "Tripledot Studios Limited",
+   "score": 4.85,
    "free": null,
    "gross": 27,
    "cats": [
@@ -4675,30 +4979,14 @@
    "score_rank": 8
   },
   {
-   "appId": "com.vitastudio.solitaire",
-   "title": "Vita Solitaire for Seniors",
-   "developer": "Vita Studio.",
-   "score": 4.86,
+   "appId": "and.lihuhu.findmatch",
+   "title": "Triple Find - Match Triple 3D",
+   "developer": "LIHUHU PTE. LTD.",
+   "score": 4.79,
    "free": 23,
    "gross": null,
    "cats": [
-    "GAME_CARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 8
-  },
-  {
-   "appId": "com.bbumgames.rummystars",
-   "title": "Gin Rummy Stars - Card Game",
-   "developer": "Beach Bum Ltd.",
-   "score": 4.86,
-   "free": null,
-   "gross": 27,
-   "cats": [
-    "GAME_CARD"
+    "GAME_BOARD"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -4723,10 +5011,10 @@
    "score_rank": 8
   },
   {
-   "appId": "com.playstrom.my.sticker.room",
-   "title": "My Sticker Room - Decor Game",
-   "developer": "SayGames Ltd",
-   "score": 4.28,
+   "appId": "com.diamond.city.house.best.building.craft.vip",
+   "title": "Block World - Craft City",
+   "developer": "Patane Global",
+   "score": 4.55,
    "free": 23,
    "gross": null,
    "cats": [
@@ -4739,62 +5027,30 @@
    "score_rank": 8
   },
   {
-   "appId": "com.scopely.gardenjoy",
-   "title": "Flourish: Design Dream Spaces",
-   "developer": "Burlingame Studios",
-   "score": 4.65,
+   "appId": "air.com.littlebigplay.games.premium.spellingchallenge",
+   "title": "Spelling Challenge PRO",
+   "developer": "LittleBigPlay",
+   "score": 4.48,
    "free": null,
-   "gross": 27,
-   "cats": [
-    "GAME_SIMULATION"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 8
-  },
-  {
-   "appId": "com.bigc.daily.jigsaw.puzzles",
-   "title": "Daily Jigsaw Puzzles",
-   "developer": "Big Cake Apps",
-   "score": 4.77,
-   "free": 23,
-   "gross": null,
+   "gross": 28,
    "cats": [
     "GAME_TRIVIA"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 2,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 8
   },
   {
-   "appId": "com.gtm.coupletruthordare",
-   "title": "Couple Games: Spicy Questions",
-   "developer": "Ultimate Party Apps",
-   "score": 4.52,
-   "free": null,
-   "gross": 27,
-   "cats": [
-    "GAME_TRIVIA"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 8
-  },
-  {
-   "appId": "com.easybrain.arrow.puzzle.game",
-   "title": "Arrow Puzzle: Tap Puzzle Games",
-   "developer": "Easybrain",
-   "score": 4.84,
+   "appId": "com.kkz.antistress.satisfying.relax.toys.games",
+   "title": "Satisfying Toys : Calm Games",
+   "developer": "Koko Zone",
+   "score": 4.82,
    "free": 24,
    "gross": null,
    "cats": [
-    "GAME_PUZZLE"
+    "GAME_CASUAL"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -4803,17 +5059,33 @@
    "score_rank": 7
   },
   {
-   "appId": "com.fidget.dumplingparty",
-   "title": "Fidget Trading: Dumpling Party",
-   "developer": "Novix Games",
-   "score": 3.68,
+   "appId": "solitaire.word.association.connections.puzzle",
+   "title": "Associate Words: Solitaire",
+   "developer": "Astrasen Global",
+   "score": 4.81,
    "free": 24,
    "gross": null,
    "cats": [
-    "GAME_CASUAL"
+    "GAME_WORD"
    ],
    "newEntry": false,
    "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 7
+  },
+  {
+   "appId": "net.peakgames.ginrummyplus",
+   "title": "Gin Rummy Plus: Fun Card Game",
+   "developer": "Zynga",
+   "score": 4.51,
+   "free": null,
+   "gross": 28,
+   "cats": [
+    "GAME_CARD"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 7
@@ -4835,26 +5107,58 @@
    "score_rank": 7
   },
   {
-   "appId": "com.mukbang.asmr.idol.live",
-   "title": "Mukbang ASMR: Idol Livestream",
-   "developer": "BLACKGEMS GLOBAL JOINT STOCK COMPANY",
-   "score": 4.67,
-   "free": 24,
+   "appId": "com.ew.mahjong",
+   "title": "Fun Mahjong Match",
+   "developer": "EWG STUDIO",
+   "score": 4.93,
+   "free": 25,
    "gross": null,
    "cats": [
-    "GAME_SIMULATION"
+    "GAME_BOARD"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 7
   },
   {
-   "appId": "to.krillion.app",
-   "title": "Rarest Krill: Trivia & Quiz",
-   "developer": "NOTHING AI",
-   "score": 3.4,
+   "appId": "bingocash.bonus.moneyslot.cardpuzzle",
+   "title": "Bingo Win Cash: Win Real Cash",
+   "developer": "VENUS AG",
+   "score": 4.3,
+   "free": 27,
+   "gross": null,
+   "cats": [
+    "GAME_BOARD"
+   ],
+   "newEntry": false,
+   "bestRise": 3,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 7
+  },
+  {
+   "appId": "com.kkz.animal.skincare.games",
+   "title": "Animal Makeover ASMR MiniGames",
+   "developer": "Koko Zone",
+   "score": 4.51,
+   "free": 25,
+   "gross": null,
+   "cats": [
+    "GAME_SIMULATION"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 7
+  },
+  {
+   "appId": "com.unicostudio.braintest5",
+   "title": "Brain Test 5: Hard Challenge",
+   "developer": "Unico Studio",
+   "score": 4.77,
    "free": 24,
    "gross": null,
    "cats": [
@@ -4867,10 +5171,26 @@
    "score_rank": 7
   },
   {
-   "appId": "com.moonactive.jellybusters",
-   "title": "Jelly Busters: Puzzle Game",
-   "developer": "Moon Active",
-   "score": 4.7,
+   "appId": "sorting.games.goods.sort.triple.match3d.puzzle.stuff",
+   "title": "Goods Puzzle: 3D Sorting Games",
+   "developer": "Guru Puzzle Game",
+   "score": 4.91,
+   "free": 25,
+   "gross": null,
+   "cats": [
+    "GAME_PUZZLE"
+   ],
+   "newEntry": false,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 6
+  },
+  {
+   "appId": "com.ig.screwdom",
+   "title": "Screwdom 3D",
+   "developer": "iKame Games - Zego Studio",
+   "score": 4.53,
    "free": null,
    "gross": 28,
    "cats": [
@@ -4883,42 +5203,26 @@
    "score_rank": 6
   },
   {
-   "appId": "com.higame.par.joystick.makeover.diy.gamepad",
-   "title": "Joystick Makeover: DIY Gamepad",
-   "developer": "HIGAME LTD.",
-   "score": 4.75,
-   "free": 25,
+   "appId": "com.animal.hunter.shooting.apex",
+   "title": "Apex Sniper: Animal Hunt",
+   "developer": "CozyCraft",
+   "score": 4.61,
+   "free": 27,
    "gross": null,
    "cats": [
     "GAME_CASUAL"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 2,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 6
   },
   {
-   "appId": "com.crazylabs.fashion.squad",
-   "title": "Glow Fashion Idol",
-   "developer": "CrazyLabs LTD",
-   "score": 4.72,
-   "free": null,
-   "gross": 28,
-   "cats": [
-    "GAME_CASUAL"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 6
-  },
-  {
-   "appId": "com.openmygame.android.word.solitaire.puzzle",
-   "title": "Solitaria: Word Puzzle Game",
-   "developer": "Malpa Games",
-   "score": 4.79,
+   "appId": "com.gimica.wordkitchen",
+   "title": "Word Kitchen",
+   "developer": "Gimica GmbH",
+   "score": 4.54,
    "free": 25,
    "gross": null,
    "cats": [
@@ -4947,46 +5251,14 @@
    "score_rank": 6
   },
   {
-   "appId": "solitaire.puzzlemaker.solitaire.klondike.cardgame.patience",
-   "title": "Solitaire: Puzzle Card Games",
-   "developer": "PuzzleMaker - block puzzle",
-   "score": 3.86,
-   "free": 25,
-   "gross": null,
-   "cats": [
-    "GAME_CARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 6
-  },
-  {
-   "appId": "com.comunix.pokerface",
-   "title": "Poker Face: Texas Holdem Poker",
-   "developer": "Comunix Ltd",
+   "appId": "com.pokemon.pokemontcgl",
+   "title": "Pokémon TCG Live",
+   "developer": "The Pokémon Company International",
    "score": 4.47,
-   "free": null,
-   "gross": 28,
-   "cats": [
-    "GAME_CARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 6
-  },
-  {
-   "appId": "in.playsimple.mahjongempire",
-   "title": "Mahjong Empire: Classic Match",
-   "developer": "PlaySimple Games",
-   "score": 4.94,
    "free": 25,
    "gross": null,
    "cats": [
-    "GAME_BOARD"
+    "GAME_CARD"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -5011,12 +5283,12 @@
    "score_rank": 6
   },
   {
-   "appId": "com.paurau.MakeHer",
-   "title": "Move People",
-   "developer": "Supersonic Studios LTD",
-   "score": 4.19,
-   "free": 25,
-   "gross": null,
+   "appId": "com.nexwave.popepoch.android",
+   "title": "Pop Epoch: Civilization Tycoon",
+   "developer": "Nex Wave Games",
+   "score": 4.49,
+   "free": null,
+   "gross": 28,
    "cats": [
     "GAME_SIMULATION"
    ],
@@ -5027,10 +5299,10 @@
    "score_rank": 6
   },
   {
-   "appId": "com.niceteen.games.dtbam",
-   "title": "Deal To Be A Millionaire",
-   "developer": "Niceteen Games",
-   "score": 4.69,
+   "appId": "typing.fast.texting.practice.keybord.type.games",
+   "title": "Type Sprint: Typing Games",
+   "developer": "Masterskaya DK",
+   "score": 4.48,
    "free": 25,
    "gross": null,
    "cats": [
@@ -5043,42 +5315,10 @@
    "score_rank": 6
   },
   {
-   "appId": "com.happeningnow.blebrity",
-   "title": "BLeBRiTY Charades",
-   "developer": "Visibility Media Inc",
-   "score": 4.06,
-   "free": null,
-   "gross": 28,
-   "cats": [
-    "GAME_TRIVIA"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 6
-  },
-  {
-   "appId": "net.happywit.screw.out.jam",
-   "title": "Screw Out 3D: Nut Sort Jam",
-   "developer": "Unico Studio",
-   "score": 4.65,
-   "free": 26,
-   "gross": null,
-   "cats": [
-    "GAME_PUZZLE"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 5
-  },
-  {
-   "appId": "com.tripledot.angrysmash",
-   "title": "Angry Smash",
-   "developer": "Tripledot Studios Limited",
-   "score": 4.92,
+   "appId": "pampam.ibf2",
+   "title": "Bottle Flip 3D — Tap & Jump!",
+   "developer": "Azur Interactive Games Limited",
+   "score": 4.2,
    "free": 26,
    "gross": null,
    "cats": [
@@ -5107,42 +5347,26 @@
    "score_rank": 5
   },
   {
-   "appId": "at.ner.SolitaireKlondike",
-   "title": "Solitaire - Classic Card Games",
-   "developer": "nerByte GmbH",
-   "score": 4.52,
-   "free": 26,
-   "gross": null,
+   "appId": "com.zingplay.tonk",
+   "title": "Tonk 12: Tunk Rummy ZingPlay",
+   "developer": "VNG ZingPlay Studio",
+   "score": 4.45,
+   "free": null,
+   "gross": 29,
    "cats": [
     "GAME_CARD"
    ],
    "newEntry": false,
-   "bestRise": 0,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 5
   },
   {
-   "appId": "com.ew.mahjong",
-   "title": "Fun Mahjong Match",
-   "developer": "EWG STUDIO",
-   "score": 4.93,
-   "free": 26,
-   "gross": null,
-   "cats": [
-    "GAME_BOARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 5
-  },
-  {
-   "appId": "com.kkz.animal.skincare.games",
-   "title": "Animal Makeover ASMR MiniGames",
-   "developer": "Koko Zone",
-   "score": 4.49,
+   "appId": "com.mukbang.asmr.idol.live",
+   "title": "Mukbang ASMR: Idol Livestream",
+   "developer": "BLACKGEMS GLOBAL JOINT STOCK COMPANY",
+   "score": 4.68,
    "free": 26,
    "gross": null,
    "cats": [
@@ -5155,20 +5379,20 @@
    "score_rank": 5
   },
   {
-   "appId": "com.gl.crowncrush",
-   "title": "Crown Crush",
-   "developer": "Loyalty Gaming",
-   "score": 4.58,
-   "free": 27,
+   "appId": "com.bigc.daily.jigsaw.puzzles",
+   "title": "Daily Jigsaw Puzzles",
+   "developer": "Big Cake Apps",
+   "score": 4.77,
+   "free": 26,
    "gross": null,
    "cats": [
-    "GAME_PUZZLE"
+    "GAME_TRIVIA"
    ],
    "newEntry": false,
    "bestRise": 0,
    "researched": null,
    "usedForIdea": false,
-   "score_rank": 4
+   "score_rank": 5
   },
   {
    "appId": "com.gramgames.mergedragons",
@@ -5187,26 +5411,10 @@
    "score_rank": 4
   },
   {
-   "appId": "com.budgestudios.googleplay.BlueyBLU",
-   "title": "Bluey: Let's Play!",
-   "developer": "Budge Studios",
-   "score": 4.33,
-   "free": 27,
-   "gross": null,
-   "cats": [
-    "GAME_CASUAL"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 4
-  },
-  {
    "appId": "com.Chodun.CatGunner",
    "title": "Idle Cat Gunner: Shooter RPG",
    "developer": "NEPTUNE(TREEPLLA)",
-   "score": 4.45,
+   "score": 4.43,
    "free": null,
    "gross": 29,
    "cats": [
@@ -5222,7 +5430,7 @@
    "appId": "com.GulliversGames.WordeeGO",
    "title": "Word Tiles GO",
    "developer": "Gulliver's Games",
-   "score": 4.67,
+   "score": 4.66,
    "free": null,
    "gross": 29,
    "cats": [
@@ -5235,28 +5443,12 @@
    "score_rank": 4
   },
   {
-   "appId": "com.playvalve.spades",
-   "title": "Spades Stars - Card Game",
-   "developer": "Bluetile",
-   "score": 4.75,
-   "free": 27,
-   "gross": null,
-   "cats": [
-    "GAME_CARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 4
-  },
-  {
-   "appId": "net.peakgames.ginrummyplus",
-   "title": "Gin Rummy Plus: Fun Card Game",
-   "developer": "Zynga",
+   "appId": "com.game.whatdoyoumeme",
+   "title": "Meme Challenge: Dank Memes",
+   "developer": "MagicLab",
    "score": 4.51,
-   "free": null,
-   "gross": 29,
+   "free": 27,
+   "gross": null,
    "cats": [
     "GAME_CARD"
    ],
@@ -5267,42 +5459,10 @@
    "score_rank": 4
   },
   {
-   "appId": "com.iceors.colorbook.release",
-   "title": "Coloring Book: Color by Number",
-   "developer": "Candy Mobile",
-   "score": 4.53,
-   "free": 27,
-   "gross": null,
-   "cats": [
-    "GAME_BOARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 4
-  },
-  {
-   "appId": "lucky.scoop.diy.mistery.asmrpacking.forgirls",
-   "title": "Cute Scoop DIY: ASMR Packing",
-   "developer": "BLACKGEMS GLOBAL JOINT STOCK COMPANY",
-   "score": 4.28,
-   "free": 27,
-   "gross": null,
-   "cats": [
-    "GAME_SIMULATION"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 4
-  },
-  {
-   "appId": "com.outloud.idlefrog",
-   "title": "Frogs Kitchen",
-   "developer": "OUTLOU:D GAMES",
-   "score": 4.5,
+   "appId": "com.gameloft.android.ANMP.GloftDYHM",
+   "title": "Disney Magic Kingdoms",
+   "developer": "Gameloft SE",
+   "score": 4.45,
    "free": null,
    "gross": 29,
    "cats": [
@@ -5315,17 +5475,33 @@
    "score_rank": 4
   },
   {
-   "appId": "com.timleg.quizPro",
-   "title": "Endless Quiz Pro",
-   "developer": "TIMLEG",
-   "score": 4.73,
-   "free": null,
-   "gross": 29,
+   "appId": "com.lvsong.opening.theme",
+   "title": "Play N Guess: Earn Money",
+   "developer": "InventBros",
+   "score": 4.43,
+   "free": 27,
+   "gross": null,
    "cats": [
     "GAME_TRIVIA"
    ],
    "newEntry": false,
    "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 4
+  },
+  {
+   "appId": "com.gimica.triviamadness",
+   "title": "Trivia Madness",
+   "developer": "Gimica GmbH",
+   "score": 4.43,
+   "free": 28,
+   "gross": null,
+   "cats": [
+    "GAME_TRIVIA"
+   ],
+   "newEntry": false,
+   "bestRise": 1,
    "researched": null,
    "usedForIdea": false,
    "score_rank": 4
@@ -5350,7 +5526,7 @@
    "appId": "com.uncosoft.wordpuzzle",
    "title": "Sand Blocks: Drop Puzzle",
    "developer": "Rollic Games",
-   "score": 4.02,
+   "score": 3.99,
    "free": 30,
    "gross": 30,
    "cats": [
@@ -5363,58 +5539,26 @@
    "score_rank": 3
   },
   {
-   "appId": "com.gimica.treasuremaster",
-   "title": "Treasure Master",
-   "developer": "Gimica GmbH",
-   "score": 4.49,
-   "free": 28,
-   "gross": null,
-   "cats": [
-    "GAME_CASUAL"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 3
-  },
-  {
-   "appId": "com.gimica.wordseeker",
-   "title": "Word Seeker",
-   "developer": "Gimica GmbH",
-   "score": 4.38,
-   "free": 28,
-   "gross": null,
-   "cats": [
-    "GAME_WORD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 3
-  },
-  {
-   "appId": "com.solitaire.card",
-   "title": "Classic Solitaire",
-   "developer": "Big Cake Apps",
-   "score": 4.74,
-   "free": 28,
-   "gross": null,
-   "cats": [
-    "GAME_CARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 3
-  },
-  {
-   "appId": "com.alexp.eyemix",
-   "title": "Eye Color Mix",
-   "developer": "CrazyLabs LTD",
+   "appId": "com.iceors.colorbook.release",
+   "title": "Coloring Book: Color by Number",
+   "developer": "Candy Mobile",
    "score": 4.53,
+   "free": 28,
+   "gross": null,
+   "cats": [
+    "GAME_BOARD"
+   ],
+   "newEntry": false,
+   "bestRise": 0,
+   "researched": null,
+   "usedForIdea": false,
+   "score_rank": 3
+  },
+  {
+   "appId": "com.playstrom.my.sticker.room",
+   "title": "My Sticker Room - Decor Game",
+   "developer": "SayGames Ltd",
+   "score": 4.28,
    "free": 28,
    "gross": null,
    "cats": [
@@ -5425,54 +5569,6 @@
    "researched": null,
    "usedForIdea": false,
    "score_rank": 3
-  },
-  {
-   "appId": "com.qoni.guesstheiranswer",
-   "title": "Guess Their Answer - IQ Games",
-   "developer": "TapNation",
-   "score": 4.45,
-   "free": 28,
-   "gross": null,
-   "cats": [
-    "GAME_TRIVIA"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 3
-  },
-  {
-   "appId": "hidden.object.find.seek.search.mystery.puzzle.games.free",
-   "title": "Hidden Object Games: Seek It",
-   "developer": "NimbleMind Network Inc.",
-   "score": 4.91,
-   "free": 29,
-   "gross": null,
-   "cats": [
-    "GAME_PUZZLE"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 2
-  },
-  {
-   "appId": "com.animal.hunter.shooting.apex",
-   "title": "Apex Sniper: Animal Hunt",
-   "developer": "CozyCraft",
-   "score": 4.65,
-   "free": 29,
-   "gross": null,
-   "cats": [
-    "GAME_CASUAL"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 2
   },
   {
    "appId": "dk.tactile.holegame",
@@ -5491,26 +5587,10 @@
    "score_rank": 2
   },
   {
-   "appId": "com.novelworld.novel",
-   "title": "NovelWorld-Read Romance Story",
-   "developer": "NovelWorld Team",
-   "score": 4.32,
-   "free": null,
-   "gross": 30,
-   "cats": [
-    "GAME_WORD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 2
-  },
-  {
-   "appId": "org.smapps.flash",
-   "title": "Math Solitaire: Brain Puzzle",
-   "developer": "Smart Project GMBH",
-   "score": 3.3,
+   "appId": "solitaire.puzzlemaker.solitaire.klondike.cardgame.patience",
+   "title": "Solitaire: Puzzle Card Games",
+   "developer": "PuzzleMaker - block puzzle",
+   "score": 3.86,
    "free": 29,
    "gross": null,
    "cats": [
@@ -5523,30 +5603,14 @@
    "score_rank": 2
   },
   {
-   "appId": "com.zingplay.tonk",
-   "title": "Tonk 12: Tunk Rummy ZingPlay",
-   "developer": "VNG ZingPlay Studio",
-   "score": 4.45,
+   "appId": "com.bbumgames.rummystars",
+   "title": "Gin Rummy Stars - Card Game",
+   "developer": "Beach Bum Ltd.",
+   "score": 4.86,
    "free": null,
    "gross": 30,
    "cats": [
     "GAME_CARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 2
-  },
-  {
-   "appId": "com.godlike.yahtzee",
-   "title": "Yatzy - Classic Dice Game",
-   "developer": "TerranDroid",
-   "score": 4.91,
-   "free": 29,
-   "gross": null,
-   "cats": [
-    "GAME_BOARD"
    ],
    "newEntry": false,
    "bestRise": 0,
@@ -5571,158 +5635,14 @@
    "score_rank": 2
   },
   {
-   "appId": "com.education.game.builder.good.building.pro.craft",
-   "title": "Craft Building Block World 3D",
-   "developer": "InsafBook Platform LTD",
-   "score": 4.41,
-   "free": 29,
-   "gross": null,
-   "cats": [
-    "GAME_SIMULATION"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 2
-  },
-  {
-   "appId": "com.newmoonproduction.bigfarmhomestead",
-   "title": "Big Farm Homestead",
-   "developer": "Goodgame Studios",
-   "score": 4.59,
-   "free": null,
-   "gross": 30,
-   "cats": [
-    "GAME_SIMULATION"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 2
-  },
-  {
-   "appId": "com.gimica.triviamadness",
-   "title": "Trivia Madness",
-   "developer": "Gimica GmbH",
-   "score": 4.43,
-   "free": 29,
-   "gross": null,
-   "cats": [
-    "GAME_TRIVIA"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 2
-  },
-  {
-   "appId": "air.com.littlebigplay.games.premium.spellingchallenge",
-   "title": "Spelling Challenge PRO",
-   "developer": "LittleBigPlay",
-   "score": 4.48,
-   "free": null,
-   "gross": 30,
-   "cats": [
-    "GAME_TRIVIA"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 2
-  },
-  {
-   "appId": "com.gl.mahjong",
-   "title": "Mahjong Smart",
-   "developer": "Loyalty Gaming",
-   "score": 4.51,
-   "free": 30,
-   "gross": null,
-   "cats": [
-    "GAME_CASUAL"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 1
-  },
-  {
-   "appId": "hang.man.word.guessing.games",
-   "title": "Hangman Words:Two Player Games",
-   "developer": "Kerun Games",
-   "score": 4.85,
-   "free": 30,
-   "gross": null,
-   "cats": [
-    "GAME_WORD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 1
-  },
-  {
-   "appId": "com.mobilityware.solitaire",
-   "title": "Solitaire - Classic Card Games",
-   "developer": "MobilityWare",
-   "score": 4.56,
+   "appId": "org.smapps.flash",
+   "title": "Math Solitaire: Brain Puzzle",
+   "developer": "Smart Project GMBH",
+   "score": 3.32,
    "free": 30,
    "gross": null,
    "cats": [
     "GAME_CARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 1
-  },
-  {
-   "appId": "bingocash.bonus.moneyslot.cardpuzzle",
-   "title": "Bingo Win Cash: Win Real Cash",
-   "developer": "VENUS AG",
-   "score": 4.32,
-   "free": 30,
-   "gross": null,
-   "cats": [
-    "GAME_BOARD"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 1
-  },
-  {
-   "appId": "com.pd.vehiclemasters",
-   "title": "Vehicle Masters",
-   "developer": "SayGames Ltd",
-   "score": 4.51,
-   "free": 30,
-   "gross": null,
-   "cats": [
-    "GAME_SIMULATION"
-   ],
-   "newEntry": false,
-   "bestRise": 0,
-   "researched": null,
-   "usedForIdea": false,
-   "score_rank": 1
-  },
-  {
-   "appId": "com.krillion.game",
-   "title": "Krillion Trivia & Word Game",
-   "developer": "AppStation Studio",
-   "score": 4.79,
-   "free": 30,
-   "gross": null,
-   "cats": [
-    "GAME_TRIVIA"
    ],
    "newEntry": false,
    "bestRise": 0,

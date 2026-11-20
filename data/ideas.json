@@ -54,5 +54,33 @@
     ],
     "oneLiner": "Swipe-spell word-slot puzzle where used letters vanish and the rest fall, so word order matters.",
     "report": "ideas/2026-11-19/report.md"
+  },
+  {
+    "date": "2026-11-20",
+    "type": "clone",
+    "name": "Blockbuster Bots",
+    "basedOnAppId": "com.rotatelab.cubeblast",
+    "mechanicTags": [
+      "voxel-3d",
+      "tap-shooter-queue",
+      "color-match",
+      "rotating-cube"
+    ],
+    "oneLiner": "Tap colored robot shooters from a grid into a 5-slot queue; they blast matching voxel blocks off a rotating 3D sculpture.",
+    "report": "ideas/2026-11-20/report.md"
+  },
+  {
+    "date": "2026-11-20",
+    "type": "twist",
+    "name": "Drifting Pom-Poms",
+    "basedOnAppId": "com.fluffydrop.op.gp",
+    "mechanicTags": [
+      "drag-drop-sort",
+      "color-bins",
+      "capacity-bins",
+      "moving-bins"
+    ],
+    "oneLiner": "Fluffy Drop bin-filling, but each bin drifts one cell along a track after every move.",
+    "report": "ideas/2026-11-20/report.md"
   }
 ]
