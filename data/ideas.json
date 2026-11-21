@@ -82,5 +82,33 @@
     ],
     "oneLiner": "Fluffy Drop bin-filling, but each bin drifts one cell along a track after every move.",
     "report": "ideas/2026-11-20/report.md"
+  },
+  {
+    "date": "2026-11-21",
+    "type": "clone",
+    "name": "Category Crown Solitaire",
+    "basedOnAppId": "com.hitappsgames.wordsolitaire",
+    "mechanicTags": [
+      "word-solitaire",
+      "category-sort",
+      "card-stack",
+      "word-association"
+    ],
+    "oneLiner": "Solitaire layout of word cards sorted onto category headers within a move limit.",
+    "report": "ideas/2026-11-21/report.md"
+  },
+  {
+    "date": "2026-11-21",
+    "type": "twist",
+    "name": "Rare Words Daily",
+    "basedOnAppId": "com.fanatee.keep",
+    "mechanicTags": [
+      "daily-puzzle",
+      "streak",
+      "word-hub",
+      "rarity-score"
+    ],
+    "oneLiner": "Daily 'name something' prompts scored by how rarely other players gave the same answer.",
+    "report": "ideas/2026-11-21/report.md"
   }
 ]

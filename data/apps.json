@@ -32,6 +32,17 @@
   "st_revenue_last_month": "$1m-$10m",
   "title": "Royal Smash! - Physics Puzzle"
  },
+ "com.fanatee.keep": {
+  "developer": "Fanatee, Inc.",
+  "lastResearched": "2026-11-21",
+  "ratings": 99205,
+  "realInstalls": 10857931,
+  "released": "Jan 19, 2022",
+  "score": 4.55,
+  "st_downloads_last_month": "100k-500k",
+  "st_revenue_last_month": "$5k-$50k",
+  "title": "Everyday Puzzles: Mini Games"
+ },
  "com.fluffydrop.op.gp": {
   "developer": "UniRise Studio",
   "lastResearched": "2026-11-20",
@@ -53,6 +64,28 @@
   "st_downloads_last_month": "1m-10m",
   "st_revenue_last_month": "$1m-$10m",
   "title": "Magic Sort!"
+ },
+ "com.hitappsgames.wordsolitaire": {
+  "developer": "Hitapps Games",
+  "lastResearched": "2026-11-21",
+  "ratings": 485253,
+  "realInstalls": 37232153,
+  "released": "Aug 28, 2025",
+  "score": 4.38,
+  "st_downloads_last_month": "1m-10m",
+  "st_revenue_last_month": "$1m-$10m",
+  "title": "Solitaire Associations Journey"
+ },
+ "com.krillion.app": {
+  "developer": "TyroSoft LLC",
+  "lastResearched": "2026-11-21",
+  "ratings": 378,
+  "realInstalls": 50535,
+  "released": "Oct 22, 2026",
+  "score": 4.47,
+  "st_downloads_last_month": "5k-50k",
+  "st_revenue_last_month": null,
+  "title": "Krakio: Daily Trivia Dive"
  },
  "com.loomgames.pixelflow": {
   "developer": "Loom Games A.\u015e.",
