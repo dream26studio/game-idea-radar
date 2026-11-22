@@ -110,5 +110,35 @@
     ],
     "oneLiner": "Daily 'name something' prompts scored by how rarely other players gave the same answer.",
     "report": "ideas/2026-11-21/report.md"
+  },
+  {
+    "date": "2026-11-22",
+    "type": "clone",
+    "name": "Sprinkle Shuttle",
+    "basedOnAppId": "bus.sand.fall.jam.loop.traffic.flow",
+    "mechanicTags": [
+      "bus-jam",
+      "sand-layers",
+      "traffic-escape",
+      "tap-route",
+      "color-match"
+    ],
+    "oneLiner": "Tap color-coded vehicles out of a jam along their routes to collect matching layered sprinkles that fill a mosaic.",
+    "report": "ideas/2026-11-22/report.md"
+  },
+  {
+    "date": "2026-11-22",
+    "type": "twist",
+    "name": "Swap Shop Screws",
+    "basedOnAppId": "net.happywit.screw.out.jam",
+    "mechanicTags": [
+      "screw-puzzle",
+      "unscrew-order",
+      "color-tray-sort",
+      "3d-object",
+      "build-meta"
+    ],
+    "oneLiner": "Unscrew one object and its parts become the kit you re-screw into a second object.",
+    "report": "ideas/2026-11-22/report.md"
   }
 ]

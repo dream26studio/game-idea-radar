@@ -1,4 +1,15 @@
 {
+ "bus.sand.fall.jam.loop.traffic.flow": {
+  "developer": "Nova Games Technology Limited",
+  "lastResearched": "2026-11-22",
+  "ratings": 92061,
+  "realInstalls": 3649632,
+  "released": "Jun 17, 2026",
+  "score": 4.79,
+  "st_downloads_last_month": "1m-10m",
+  "st_revenue_last_month": "$500k-$1m",
+  "title": "Jam Bus:Sandfall"
+ },
  "com.agavegames.wordtiles": {
   "developer": "Agave Games",
   "lastResearched": "2026-11-19",
@@ -108,5 +119,16 @@
   "st_downloads_last_month": "500k-1m",
   "st_revenue_last_month": "$1m-$10m",
   "title": "Cube Land Puzzle Game"
+ },
+ "net.happywit.screw.out.jam": {
+  "developer": "Unico Studio",
+  "lastResearched": "2026-11-22",
+  "ratings": 258754,
+  "realInstalls": 5111220,
+  "released": "Aug 13, 2025",
+  "score": 4.65,
+  "st_downloads_last_month": "500k-1m",
+  "st_revenue_last_month": "$100k-$500k",
+  "title": "Screw Out 3D: Nut Sort Jam"
  }
 }
