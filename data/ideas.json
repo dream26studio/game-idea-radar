@@ -140,5 +140,34 @@
     ],
     "oneLiner": "Unscrew one object and its parts become the kit you re-screw into a second object.",
     "report": "ideas/2026-11-22/report.md"
+  },
+  {
+    "date": "2026-11-23",
+    "type": "clone",
+    "name": "Noggin Noodle",
+    "basedOnAppId": "io.smakapps.guessly",
+    "mechanicTags": [
+      "party",
+      "charades",
+      "heads-up",
+      "tilt-sensor",
+      "deck-packs"
+    ],
+    "oneLiner": "Heads-up headband charades: tilt-to-score party game with themed prompt decks and an IAP paywall.",
+    "report": "ideas/2026-11-23/report.md"
+  },
+  {
+    "date": "2026-11-23",
+    "type": "twist",
+    "name": "Trap Door Trials",
+    "basedOnAppId": "com.unicostudio.braintest",
+    "mechanicTags": [
+      "trick-puzzle",
+      "brain-teaser",
+      "ugc-levels",
+      "share-link"
+    ],
+    "oneLiner": "Brain Test style trick puzzles, but players build trick levels from templates and send them to friends.",
+    "report": "ideas/2026-11-23/report.md"
   }
 ]

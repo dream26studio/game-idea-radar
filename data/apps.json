@@ -87,6 +87,17 @@
   "st_revenue_last_month": "$1m-$10m",
   "title": "Solitaire Associations Journey"
  },
+ "com.hollywood.merge": {
+  "developer": "VoyagerOne IE",
+  "lastResearched": "2026-11-23",
+  "ratings": 220675,
+  "realInstalls": 10594095,
+  "released": "Jan 29, 2026",
+  "score": 4.69,
+  "st_downloads_last_month": "1m-10m",
+  "st_revenue_last_month": "$1m-$10m",
+  "title": "Hollywood Merge"
+ },
  "com.krillion.app": {
   "developer": "TyroSoft LLC",
   "lastResearched": "2026-11-21",
@@ -119,6 +130,28 @@
   "st_downloads_last_month": "500k-1m",
   "st_revenue_last_month": "$1m-$10m",
   "title": "Cube Land Puzzle Game"
+ },
+ "com.unicostudio.braintest": {
+  "developer": "Unico Studio",
+  "lastResearched": "2026-11-23",
+  "ratings": 10114004,
+  "realInstalls": 395978988,
+  "released": "Nov 21, 2019",
+  "score": 4.73,
+  "st_downloads_last_month": "1m-10m",
+  "st_revenue_last_month": "$5k-$50k",
+  "title": "Brain Test: Tricky Puzzles"
+ },
+ "io.smakapps.guessly": {
+  "developer": "smak apps",
+  "lastResearched": "2026-11-23",
+  "ratings": 79854,
+  "realInstalls": 4148569,
+  "released": "Mar 30, 2026",
+  "score": 4.65,
+  "st_downloads_last_month": "1m-10m",
+  "st_revenue_last_month": "$100k-$500k",
+  "title": "Charades Guess Game \u2014 Guessly"
  },
  "net.happywit.screw.out.jam": {
   "developer": "Unico Studio",

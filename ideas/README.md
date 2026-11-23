@@ -2,6 +2,8 @@
 
 | Date | Type | Our name | Based on | Est. revenue/mo | Report |
 |---|---|---|---|---|---|
+| 2026-11-23 | twist | Trap Door Trials | Brain Test: Tricky Puzzles | $5k-$50k (Sensor Tower band, Low; Grossing #9 suggests higher) | [report](./2026-11-23/report.md) |
+| 2026-11-23 | clone | Noggin Noodle | Charades Guess Game — Guessly | $100k-$500k (Sensor Tower band, Med-Low) | [report](./2026-11-23/report.md) |
 | 2026-11-22 | twist | Swap Shop Screws | Screw Out 3D: Nut Sort Jam | $100k-$500k (Sensor Tower band, Med-Low) | [report](./2026-11-22/report.md) |
 | 2026-11-22 | clone | Sprinkle Shuttle | Jam Bus:Sandfall | $500k-$1m (Sensor Tower band, Med) | [report](./2026-11-22/report.md) |
 | 2026-11-21 | twist | Rare Words Daily | Everyday Puzzles | $5k-$50k (Sensor Tower band, Low; Grossing #2 suggests higher) | [report](./2026-11-21/report.md) |
